@@ -1,0 +1,448 @@
+TY  - JOUR
+AU  - Gunaryati, A.
+AU  - Benny Mutiara, A.B.
+AU  - Puspitodjati, S.
+TI  - Enhancing Sharia Stock Price Forecasting using a Hybrid ARIMA-LSTM with Locally Weighted Scatterplot Smoothing Regression Approach
+PY  - 2025
+T2  - Journal of Applied Data Sciences
+VL  - 6
+IS  - 1
+SP  - 683
+EP  - 694
+DO  - 10.47738/jads.v6i1.514
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85216737991&doi=10.47738%2Fjads.v6i1.514&partnerID=40&md5=36f073d6ca85641994888f4ad2749088
+AD  - Gunadarma University, Depok, Indonesia
+AD  - Nasional University, Faculty of Communication and Information Technology, Jakarta, Indonesia
+AB  - Predicting Sharia stock prices is complex because it has high volatility and non-linear data patterns. To improve the accuracy of the forecast, the right technique is needed according to the existing data pattern. One of the techniques currently developing is integrating (hybrid) two forecasting models. This study proposes a hybrid autoregressive integrated moving average (ARIMA) and long short-term memory (LSTM) model with the locally weighted scatterplot smoothing (lowess) linear regression technique. This model is designed by creating a linear regression between the actual value and the predicted results of the ARIMA and LSTM models using the Lowess technique. The dataset used here is the closing stock prices of four Indonesian Islamic banking companies. The hybrid ARIMA-LSTM model with lowess linear regression significantly outperforms the individual ARIMA and LSTM models because it produces better performance metrics, namely mean square error (MSE), root mean square error (RMSE), mean absolute error (MAE), and mean absolute percentage error (MAPE), for training and testing datasets. The proposed hybrid model effectively reduces noise, and the model can capture complex patterns in the Sharia stock price dataset, and the prediction results are more accurate. The accuracy values for training data and data testing datasets were respectively 97.6% and 98.3% (BANK. JK), 98.3% and 98.2% (BRIS. JK), 99.4% and 99.5% (BTPN. JK), and 97.7% and 99.3% (PNBS. JK). © 2025 Elsevier B.V., All rights reserved.
+KW  - ARIMA
+KW  - Forecasting
+KW  - Hybrid Model
+KW  - LSTM
+KW  - Smoothing Regression
+KW  - Stock Price
+PB  - Bright Publisher
+SN  - 27236471 (ISSN)
+LA  - English
+J2  - J. Appl. Data Sci.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 November 2025; Cited By: 1; Correspondence Address: A. Gunaryati; Gunadarma University, Depok, Jl. Margonda Raya No. 100, 16424, Indonesia; email: aris_gunaryati@staff.gunadarma.ac.id
+ER  -
+
+TY  - JOUR
+AU  - Sadewa, B.
+AU  - Fajriana, F.
+TI  - Implementation of Simple Exponential Smoothing and Weighted Moving Average in Predicting Netflix Stock Prices
+PY  - 2025
+T2  - International Journal of Engineering, Science and Information Technology
+VL  - 5
+IS  - 1
+SP  - 264
+EP  - 271
+DO  - 10.52088/ijesty.v5i1.708
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105009422920&doi=10.52088%2Fijesty.v5i1.708&partnerID=40&md5=9a04ac5298b5b144f9d2ee7f12a9687b
+AD  - Universitas Malikussaleh, Department of Informatics, Aceh Utara, Indonesia
+AB  - This study aims to develop a stock price prediction system for Netflix using the Simple Exponential Smoothing and Weighted Moving Average methods and evaluate the accuracy of both methods. The system provides future stock price estimates based on historical data and includes evaluation metrics such as Mean Absolute Error and Mean Absolute Percentage Error. The implementation results show that SES achieved an MAE of 4.40 and a MAPE of 1.08%, while WMA resulted in an MAE of 8.65 and a MAPE of 2.11%. These findings indicate that SES is more effective in predicting stock prices with lower error rates, particularly for stable historical data. In contrast, WMA is more responsive to short-term trends but less accurate overall. Based on the results, SES is recommended as the developed system's primary method for stock price prediction. © 2025 Elsevier B.V., All rights reserved.
+KW  - Netflix
+KW  - Prediction
+KW  - Simple Exponential Smoothing
+KW  - Stock
+KW  - Weighted Moving Average
+PB  - Malikussaleh University
+SN  - 27752674 (ISSN)
+LA  - English
+J2  - Int. J. Eng. Sci. Inf. Technol.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 November 2025; Cited By: 0; Correspondence Address: B. Sadewa; Department of Informatics, Faculty of Engineering, Universitas Malikussaleh, Aceh, Indonesia; email: bima.200170177@mhs.unimal.ac.id
+ER  -
+
+TY  - JOUR
+AU  - Munthe, I.R.
+AU  - Rambe, B.H.
+AU  - Hanum, F.
+AU  - Amanda, A.T.
+AU  - Hutagaol, A.S.R.
+AU  - Harianto, R.
+TI  - Implementation of Stacking Technique Combining Machine Learning and Deep Learning Algorithms Using SMOTE to Improve Stock Market Prediction Accuracy
+PY  - 2024
+T2  - Journal of Applied Data Sciences
+VL  - 5
+IS  - 4
+SP  - 2079
+EP  - 2091
+DO  - 10.47738/jads.v5i4.421
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85212473119&doi=10.47738%2Fjads.v5i4.421&partnerID=40&md5=c687721613086bb5740e8178fa0bb924
+AD  - Universitas Labuhanbatu, Medan, Indonesia
+AD  - Institut Teknologi Dan Sains Padang Lawas Utara, Padang, Indonesia
+AB  - This study introduces a stacking technique that integrates machine learning (ML) and deep learning (DL) algorithms to enhance the accuracy of stock market trend predictions. The stacking model utilizes XGBoost and Random Forest as base models from the ML domain, while Logistic Regression and LSTM (Long Short-Term Memory) function as meta models to optimize predictive accuracy. A significant challenge in stock market data is class imbalance, where certain trends, such as stock price drops, are underrepresented. To mitigate this, we applied the Synthetic Minority Over-sampling Technique (SMOTE) to generate synthetic data for the minority class. This approach helps the model better capture patterns from the underrepresented data while preserving essential information from the majority class. The implementation of SMOTE, coupled with the stacking technique, yielded a substantial improvement in prediction accuracy. The results showed that the Random Forest algorithm achieved an accuracy of 85% with precision, recall, and F1-score all at 85%, while XGBoost and Logistic Regression achieved accuracies of 82% and 81% respectively. For the deep learning models, LSTM reached an accuracy of 83%, while the Stacking Meta Model with LSTM achieved an accuracy of 83% with slightly better precision and recall at 84%. The stacking model, with Logistic Regression as the meta model, ultimately achieved the highest accuracy of 86%, outperforming individual models such as SVM (Support Vector Machine), LSTM, Random Forest, and Logistic Regression (LR). These findings demonstrate the efficacy of combining SMOTE with stacking to address data imbalance and improve stock market predictions. The novelty of this study lies in the integration of advanced ML and DL models within a stacking framework to handle class imbalance in financial datasets. Future research will explore the deployment of this model in a real-time web-based application to support investor decision-making in stock market trend analysis. © 2024 Elsevier B.V., All rights reserved.
+KW  - Deep Learning
+KW  - Machine Learning
+KW  - SMOTE
+KW  - Stacking
+KW  - Stock Market
+PB  - Bright Publisher
+SN  - 27236471 (ISSN)
+LA  - English
+J2  - J. Appl. Data Sci.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 November 2025; Cited By: 3; Correspondence Address: I.R. Munthe; Universitas Labuhanbatu, Jl. Sisingamangaraja, Labuhanbatu, 21418, Indonesia; email: ibnurasyidmunthe@gmail.com
+ER  -
+
+TY  - JOUR
+AU  - Kristiyanti, D.A.
+AU  - Pramudya, W.B.N.
+AU  - Sanjaya, S.A.
+TI  - How can we predict transportation stock prices using artificial intelligence? Findings from experiments with Long Short-Term Memory based algorithms
+PY  - 2024
+T2  - International Journal of Information Management Data Insights
+VL  - 4
+IS  - 2
+C7  - 100293
+DO  - 10.1016/j.jjimei.2024.100293
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85205142302&doi=10.1016%2Fj.jjimei.2024.100293&partnerID=40&md5=9779361b1106ef185016dfdfc3158555
+AD  - Universitas Multimedia Nusantara, Department of Information System, Tangerang, Indonesia
+AB  - Inflation growth in Indonesia and other countries impacts the currency value and investors' purchasing power, particularly in the transportation sector. This research explores the impact of inflation growth in Indonesia and comparable nations on currency valuation and the purchasing power of investors, with a focus on the transportation sector. Data collection was carried out from April to October 2023 by scraping stock data from several transportation stocks such as: AKSI.JK, CMPP.JK, SAFE.JK, SMDR.JK, TMAS.JK, and WEHA. The research primarily aims to forecast stock prices in Indonesia's transportation sector, utilizing data mining techniques within the Cross Industry Standard Process for Data Mining (CRISP-DM) framework, which includes stages such as business understanding, data preparation, modeling, evaluation, and deployment. It employs the Long Short-Term Memory (LSTM) algorithm, assessing different hyperparameter activation functions (linear, ReLU, sigmoid, tanh) and optimizers (ADAM, ADAGRAD, NADAM, RMSPROP, ADADELTA, SGD, ADAMAX) to refine prediction accuracy. Findings demonstrate the ReLU activation function and ADAM optimizer's effectiveness, highlighted by evaluation metrics such as Mean Absolute Error (MAE) of 0.0092918, Mean Absolute Percentage Error (MAPE) of 0.06422, and R-Squared of 96 %. The study notably identifies significant growth in Temas (TMAS.JK) stock from April to October 2023, surpassing other sector stocks. Additionally, a web-based application for predicting transportation stock prices has been developed, facilitating user inputs like ticker, activation-optimizer choice, and date range. © 2024 Elsevier B.V., All rights reserved.
+KW  - Activation
+KW  - Long short-term memory
+KW  - Optimizer
+KW  - Prediction
+KW  - Transportation stock
+PB  - Elsevier B.V.
+SN  - 26670968 (ISSN)
+LA  - English
+J2  - Int. J. Inf. Manag. Data Insights
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 November 2025; Cited By: 4; Correspondence Address: D.A. Kristiyanti; Departement Information System, Faculty of Engineering and Informatics, Universitas Multimedia Nusantara, Tangerang, Jl. Scientia Boulevard, 15111, Indonesia; email: dinar.kristiyanti@umn.ac.id
+ER  -
+
+TY  - JOUR
+AU  - Hartanto, S.
+AU  - Santoso Gunawan, A.A.S.
+TI  - Temporal Fusion Transformers for Enhanced Multivariate Time Series Forecasting of Indonesian Stock Prices
+PY  - 2024
+T2  - International Journal of Advanced Computer Science and Applications
+VL  - 15
+IS  - 7
+SP  - 140
+EP  - 148
+DO  - 10.14569/IJACSA.2024.0150713
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85200348171&doi=10.14569%2FIJACSA.2024.0150713&partnerID=40&md5=241f77bb6ef4d41f9fb4b8cf5c58aec0
+AD  - Bina Nusantara University, Department of Computer Science, Jakarta, Indonesia
+AD  - Bina Nusantara University, Department of Computer Science, Jakarta, Indonesia
+AB  - The stock market represents the financial pulse of economies and is an important part of the global financial system. It allows people to buy and sell shares in publicly held corporations. It serves as a platform for investors to trade ownership in businesses, enabling companies to raise capital for expansion and operations. However, the stock market can be very risky for any investor because of the fluctuating prices and uncertainties of the market. Integrating deep learning into stock market analysis enables researchers and practitioners to gain a deeper understanding of the trends and variations that will improve investment decisions. Recent advancements in the area of deep learning, more specifically with the invention of transformer-based models, have revolutionized research in stock market prediction. The Temporal Fusion Transformer (TFT) was introduced as a model that uses self-attention mechanisms to capture complex temporal dynamics across multiple time-series sequences. This study investigates feature engineering and technical data integrated into the TFT models to improve short-term stock market prediction. The Variance Inflation Factor (VIF) was used to quantify the severity of multicollinearity in the dataset. Evaluation metrics were used to evaluate TFT models’ effectiveness in improving the accuracy of stock market forecasting compared to other transformer models and traditional statistical Naïve models used as baselines. The results prove that TFT models excel in forecasting by effectively identifying multiple patterns, resulting in better predictive accuracy. Furthermore, considering the unique patterns of individual stocks, TFT obtained a remarkable SMAPE of 0.0022. © 2024 Elsevier B.V., All rights reserved.
+KW  - capital market
+KW  - stock price prediction
+KW  - technical analysis
+KW  - TFT
+KW  - Time series forecasting
+KW  - Commerce
+KW  - Costs
+KW  - Deep learning
+KW  - Forecasting
+KW  - Investments
+KW  - Regression analysis
+KW  - Time series
+KW  - Time series analysis
+KW  - Financial system
+KW  - Multivariate time series
+KW  - Stock market prediction
+KW  - Stock price
+KW  - Stock price prediction
+KW  - Technical analysis
+KW  - Temporal fusion transformer
+KW  - Time series forecasting
+KW  - Transformer modeling
+KW  - Uncertainty
+KW  - Financial markets
+PB  - Science and Information Organization
+SN  - 21565570 (ISSN); 2158107X (ISSN)
+LA  - English
+J2  - Intl. J. Adv. Comput. Sci. Appl.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 November 2025; Cited By: 4
+ER  -
+
+TY  - JOUR
+AU  - Zein, M.H.
+AU  - Yudistira, N.
+AU  - Adikara, P.P.
+TI  - Indonesian Stock Price Prediction Using Neural Basis Expansion Analysis for Interpretable Time Series Method
+PY  - 2024
+T2  - Journal of Information and Communication Technology
+VL  - 23
+IS  - 3
+SP  - 361
+EP  - 392
+DO  - 10.32890/jict2024.23.3.1
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85200127396&doi=10.32890%2Fjict2024.23.3.1&partnerID=40&md5=bfc7d7e1b0af6fcc0bde2f03e320e2e7
+AD  - Brawijaya University, Department of Informatics Engineering, Malang, Indonesia
+AB  - The stock market is an attractive investment venue for many individuals and companies. However, unexpected share price fluctuations can cause significant financial losses. In stock investment, predicting stock price movements is the most frequently discussed topic because it allows investors to make the right investment decisions to make big profits. Therefore, a model is needed to predict future stock prices, one strategy for maximising investment profits. New state-of-the-art deep learning architectures for time series forecasting are being developed yearly, making them more accurate than ever. The most commonly used network for such a solution is Long Short-Term Memory (LSTM) architecture, but it has limitations such as long training time and interpretability. This study aims to evaluate another state-of-the-art solution, Neural Basis Expansion Analysis for Interpretable Time Series (N-BEATS), in comparison with LSTM by utilising historical data of PT Bank Central Asia Tbk (one of the banking companies in Indonesia) from 25 March 2013 to 21 March 2023. N-BEATS is a relatively new variable method that can produce accurate predictions using neural networks. This architecture has advantages such as interpretability, seamless applicability across diverse target domains without requiring modifications, and fast training. Based on tests carried out with prediction errors measured using the Mean Average Percentage Error (MAPE), it was found that the N-BEATS model outperformed the LSTM model with a MAPE value of 1.05 percent. In conclusion, this research shows the use of a new method of deep learning algorithms to predict stock prices, which contributes to facilitating stock buying and selling decisions by investors. © 2024 Elsevier B.V., All rights reserved.
+KW  - mean absolute percentage error
+KW  - neural basis expansion analysis for interpretable time series
+KW  - Prediction
+KW  - stock price
+PB  - Universiti Utara Malaysia Press
+SN  - 21803862 (ISSN); 1675414X (ISSN)
+LA  - English
+J2  - J. Inf. Commu. Technol.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 November 2025; Cited By: 1; Correspondence Address: M.H. Zein; Informatics Engineering Department, Brawijaya University, Indonesia; email: mharunzein@student.ub.ac.id
+ER  -
+
+TY  - JOUR
+AU  - Hartanto, A.D.
+AU  - Kholik, Y.N.
+AU  - Pristyanto, Y.
+TI  - Stock Price Time Series Data Forecasting Using the Light Gradient Boosting Machine (LightGBM) Model
+PY  - 2023
+T2  - International Journal on Informatics Visualization
+VL  - 7
+IS  - 4
+SP  - 2270
+EP  - 2279
+DO  - 10.30630/joiv.7.4.1740
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85181883747&doi=10.30630%2Fjoiv.7.4.1740&partnerID=40&md5=219e2f18ad34ae8913bb25deddc8eff6
+AD  - Universitas Amikom Yogyakarta, Yogyakarta, Indonesia
+AB  - In the world of stock investment, one of the things that commonly happens is stock price fluctuations or the ups and downs of stock prices. As a result of these fluctuations, many novice investors are afraid to play stocks. However, on the other hand, stocks are a type of investment that can be relied upon during disasters or economic turmoil, such as in 2019, namely the Covid-19 pandemic. For stock price fluctuations to be estimated by investors, it is necessary to carry out a forecasting activity. This study builds stock price forecasting using the Light Gradient Boosting Machine (LightGBM) algorithm, which has high accuracy and efficiency. To forecast stock price time series, the model used is the LightGBM ensemble. At the same time, they were optimizing the determination of hyperparameters using Grid Search Cross Validation (GSCV). This study will also compare the LGBM algorithm with other algorithms to see which model is optimal in forecasting price stock data. In this study, the test used the RMSE metric by comparing the original data (testing data) with the predicted results. The experimental results show that the LightGBM model can compete with and outperform boosting-based forecasting models like XGBoost, AdaBoost, and CatBoost. In comparing forecasting models, the same dataset is used so that the results are accurate, and the comparisons are equivalent. In future research, paying attention to the data during pre-processing is necessary because it has many outliers. In addition, it is necessary to include exogenous variables and external variables, which are determined to involve many parties. © 2024 Elsevier B.V., All rights reserved.
+KW  - forecasting
+KW  - LightGBM
+KW  - Machine learning
+KW  - prediction
+KW  - time series
+PB  - Politeknik Negeri Padang
+SN  - 25499904 (ISSN)
+LA  - English
+J2  - Int. J. Inform. Vis.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 November 2025; Cited By: 21; Correspondence Address: A.D. Hartanto; Department of System Information, Universitas Amikom Yogyakarta, Depok, Sleman, 55282, Indonesia; email: anggit@amikom.ac.id
+ER  -
+
+TY  - JOUR
+AU  - Mayatopani, H.
+TI  - Implementation of ANN and GARCH for Stock Price Forecasting
+PY  - 2021
+T2  - Journal of Applied Data Sciences
+VL  - 2
+IS  - 4
+SP  - 109
+EP  - 134
+DO  - 10.47738/jads.v2i4.41
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85150932555&doi=10.47738%2Fjads.v2i4.41&partnerID=40&md5=a2fb87fbdf60854dec34f61aba388978
+AD  - Pradita University, Department of Information System, Tangerang, Indonesia
+AB  - For simulating intricate goal functions, neural networks are a technology that is employed in artificial intelligence. The usage of artificial neural networks is becoming more popular.(ANNs) to certain sorts of tasks, for example learning to comprehend complicated sensor data collected in the real world, is one of the most effective methods of learning approaches available. The usage of time series models in financial time series prediction has grown significantly over the past decade, and their relevance in this area continues to expand. To be more specific, the goal of this research is to determine whether neural networks have the ability to predict financial time series in general, or, more specifically, whether they have the ability to predict future patterns i The stock market in the United States is characterized by the European Union, and Brazil, among other things. They are compared to a well-known forecasting approach, generalized autoregressive conditional heteroskedasticity, in this research, and their accuracy is shown to be superior (GARCH). Aside from that, the optimal network design for each data sample is developed for each data sample. According to this article, ANNs are capable of forecasting the stock markets under examination, and their resilience may be increased by varying the network topology utilized to construct them. Aside from that, the results of this research demonstrate that ANNs outperform GARCH models in terms of efficiency of statistical performance. © 2023 Elsevier B.V., All rights reserved.
+KW  - ANN
+KW  - Data Mining
+KW  - GARCH
+KW  - Stock Price
+PB  - Bright Publisher
+SN  - 27236471 (ISSN)
+LA  - English
+J2  - J. Appl. Data Sci.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 November 2025; Cited By: 2; Correspondence Address: H. Mayatopani; Information Systems Program, Pradita University, Indonesia; email: hendra.mayatopani@pradita.ac.id
+ER  -
+
+TY  - JOUR
+AU  - Hansun, S.
+AU  - Young, J.C.
+TI  - Predicting LQ45 financial sector indices using RNN-LSTM
+PY  - 2021
+T2  - Journal of Big Data
+VL  - 8
+IS  - 1
+C7  - 104
+DO  - 10.1186/s40537-021-00495-x
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85111516111&doi=10.1186%2Fs40537-021-00495-x&partnerID=40&md5=cd9c5f37decef9a6ae36617b376ee311
+AD  - Universitas Multimedia Nusantara, Informatics Department, Tangerang, Indonesia
+AB  - As one of the most popular financial market instruments, the stock has formed one of the most massive and complex financial markets in the world. It could handle millions of transactions within a short period of time and highly unpredictable. In this study, we aim to implement a famous Deep Learning method, namely the long short-term memory (LSTM) networks, for the stock price prediction. We limit the stocks to those that are included in the LQ45 financial sectors indices, i.e., BBCA, BBNI, BBRI, BBTN, BMRI, and BTPS. Rather than using too deep network architecture, we propose using a simple three-layer LSTM network architecture to predict the stocks’ closing prices. We found that the prediction results fall in the reasonable forecasting category. Moreover, it is worth noting that two of the considered stocks, namely, BBCA and BMRI, have the lowest MAPE values at 19.1020 and 18.6135, which fall in the good forecasting results. Hence, the proposed LSTM model is most recommended to be used on those two stocks. © 2024 Elsevier B.V., All rights reserved.
+KW  - Deep learning
+KW  - LQ45 financial sector indices
+KW  - LSTM
+KW  - Prediction
+KW  - Stock market
+KW  - Commerce
+KW  - Financial markets
+KW  - Forecasting
+KW  - Learning systems
+KW  - Network architecture
+KW  - Network layers
+KW  - Deep learning
+KW  - Financial sectors
+KW  - Learning methods
+KW  - Lq45 financial sector index
+KW  - Market instruments
+KW  - Memory network
+KW  - Short periods
+KW  - Simple++
+KW  - Stock price prediction
+KW  - Three-layer
+KW  - Long short-term memory
+PB  - Springer Science and Business Media Deutschland GmbH
+SN  - 21961115 (ISSN)
+LA  - English
+J2  - J. Big Data
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 November 2025; Cited By: 59; Correspondence Address: S. Hansun; Informatics Department, Universitas Multimedia Nusantara, Tangerang, Indonesia; email: seng.hansun@lecturer.umn.ac.id
+ER  -
+
+TY  - JOUR
+AU  - Budiharto, W.
+TI  - Data science approach to stock prices forecasting in Indonesia during Covid-19 using Long Short-Term Memory (LSTM)
+PY  - 2021
+T2  - Journal of Big Data
+VL  - 8
+IS  - 1
+C7  - 47
+DO  - 10.1186/s40537-021-00430-0
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85102419516&doi=10.1186%2Fs40537-021-00430-0&partnerID=40&md5=85f34047008330eea5b327e558877faf
+AD  - Bina Nusantara University, Department of Computer Science, Jakarta, Indonesia
+AB  - Background: Stock market process is full of uncertainty; hence stock prices forecasting very important in finance and business. For stockbrokers, understanding trends and supported by prediction software for forecasting is very important for decision making. This paper proposes a data science model for stock prices forecasting in Indonesian exchange based on the statistical computing based on R language and Long Short-Term Memory (LSTM). Findings: The first Covid-19 (Coronavirus disease-19) confirmed case in Indonesia is on 2 March 2020. After that, the composite stock price index has plunged 28% since the start of the year and the share prices of cigarette producers and banks in the midst of the corona pandemic reached their lowest value on March 24, 2020. We use the big data from Bank of Central Asia (BCA) and Bank of Mandiri from Indonesia obtained from Yahoo finance. In our experiments, we visualize the data using data science and predict and simulate the important prices called Open, High, Low and Closing (OHLC) with various parameters. Conclusions: Based on the experiment, data science is very useful for visualization data and our proposed method using Long Short-Term Memory (LSTM) can be used as predictor in short term data with accuracy 94.57% comes from the short term (1 year) with high epoch in training phase rather than using 3 years training data. © 2024 Elsevier B.V., All rights reserved.
+KW  - Data science
+KW  - Deep learning
+KW  - Finance
+KW  - Forecasting
+KW  - LSTM
+KW  - Stock market
+KW  - Brain
+KW  - Commerce
+KW  - Costs
+KW  - Data visualization
+KW  - Decision making
+KW  - Financial markets
+KW  - Long short-term memory
+KW  - Coronaviruses
+KW  - Decisions makings
+KW  - Deep learning
+KW  - Indonesia
+KW  - Price index
+KW  - R languages
+KW  - Statistical computing
+KW  - Stock price
+KW  - Stock price forecasting
+KW  - Uncertainty
+KW  - Forecasting
+PB  - Springer Science and Business Media Deutschland GmbH
+SN  - 21961115 (ISSN)
+LA  - English
+J2  - J. Big Data
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 November 2025; Cited By: 85; Correspondence Address: W. Budiharto; Computer Science Department, School of Computer Science, Bina Nusantara University, Jakarta, 11480, Indonesia; email: wbudiharto@binus.edu
+ER  -
+
+TY  - JOUR
+AU  - Ahmar, A.S.
+AU  - Singh, P.K.
+AU  - Nguyen, N.
+AU  - Tinh, N.V.
+AU  - Hieu, V.M.
+TI  - Prediction of BRIC stock price using ARIMA, SutteARIMA, and holt-winters
+PY  - 2021
+T2  - Computers, Materials and Continua
+VL  - 70
+IS  - 1
+SP  - 523
+EP  - 534
+DO  - 10.32604/cmc.2022.017068
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85114557552&doi=10.32604%2Fcmc.2022.017068&partnerID=40&md5=9035cd1adb031225c13bff655f847f02
+AD  - Universitas Negeri Makassar, Department of Statistics, Makassar, Indonesia
+AD  - Thapar Institute of Engineering & Technology, School of Humanities and Social Sciences, Patiala, India
+AD  - Van Lang University, Faculty of Commerce, Ho Chi Minh City, Viet Nam
+AB  - The novel coronavirus has played a disastrous role in many countries worldwide. The outbreak became a major epidemic, engulfing the entire world in lockdown and it is now speculated that its economic impact might be worse than economic deceleration and decline. This paper identifies two different models to capture the trend of closing stock prices in Brazil (BVSP), Russia (IMOEX.ME), India (BSESN), and China (SSE), i.e., (BRIC) countries. We predict the stock prices for three daily time periods, so appropriate preparations can be undertaken to solve these issues. First, we compared the ARIMA, SutteARIMA and Holt-Winters (H-W) methods to determine the most effective model for predicting data. The stock closing price of BRIC country data was obtained from Yahoo Finance. That data dates from 01 November 2019 to 11 December 2020, then divided into two categories-training data and test data. Training data covers 01 November 2019 to 02 December 2020. Seven days (03 December 2020 to 11 December 2020) of data was tested to determine the accuracy of the models using training data as a reference. To measure the accuracy of the models, we obtained the means absolute percentage error (MAPE) and mean square error (MSE). Prediction model Holt-Winters was found to be the most suitable for forecasting the Brazil stock price (BVSP) while MAPE (0.50) and MSE (579272.65) with Holt-Winters (smaller than ARIMA and SutteARIMA), model SutteARIMA was found most appropriate to predict the stock prices of Russia (IMOEX.ME), India (BSESN), and China (SSE) when compared to ARIMA and Holt-Winters. MAPE and MSE with SutteARIMA: Russia (MAPE:0.7; MSE:940.20), India (MAPE:0.90; MSE:207271.16), and China (MAPE: 0.72; MSE: 786.28). Finally, Holt-Winters predicted the daily forecast values for the Brazil stock price (BVSP) (12 December to 14 December 2020 i.e., 115757.6, 116150.9 and 116544.1), while SutteARIMA predicted the daily forecast values of Russia stock prices (IMOEX.ME) (12 December to 14 December 2020 i.e., 3238.06, 3241.54 and 3245.01), India stock price (BSESN) (12 December to 14 December 2020 i.e.,. 45709.38, 45828.71 and 45948.05), and China stock price (SSE) (11 December to 13 December 2020 i.e., 3397.56, 3390.59 and 3383.61) for the three time periods. © 2021 Elsevier B.V., All rights reserved.
+KW  - ARIMA
+KW  - COVID-19
+KW  - Holt-Winters
+KW  - Stock price
+KW  - SutteARIMA
+KW  - Autoregressive moving average model
+KW  - Costs
+KW  - Forecasting
+KW  - Mean square error
+KW  - Predictive analytics
+KW  - Coronaviruses
+KW  - Economic impacts
+KW  - Holt-Winters
+KW  - Percentage error
+KW  - Prediction model
+KW  - Stock price
+KW  - Time-periods
+KW  - Training data
+KW  - Financial markets
+PB  - Tech Science Press
+SN  - 15462218 (ISSN); 15462226 (ISSN)
+LA  - English
+J2  - Comput. Mater. Continua
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 November 2025; Cited By: 17; Correspondence Address: N. van Thanh; Faculty of Commerce, Van Lang University, Ho Chi Minh City, 70000, Viet Nam; email: thanh.nguyenvan@vlu.edu.vn
+ER  -
+
+TY  - JOUR
+AU  - Hoyyi, A.
+AU  - Rosadi, D.
+AU  - Abdurakhman, n.
+TI  - Daily stock prices prediction using variance gamma model
+PY  - 2021
+T2  - Journal of Mathematical and Computational Science
+VL  - 11
+IS  - 2
+SP  - 1888
+EP  - 1903
+DO  - 10.28919/jmcs/5469
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85103390235&doi=10.28919%2Fjmcs%2F5469&partnerID=40&md5=0f1ed6ef700ad7bb252ff79603ab501e
+AD  - Universitas Gadjah Mada, Department of Mathematics, Yogyakarta, Indonesia
+AD  - Universitas Diponegoro, Department of Statistics, Semarang, Indonesia
+AB  - The Black-Scholes-Merton model is often used for modeling company assets, which requires normally distributed data. The company's asset price fluctuates greatly, causing the form of data distribution to allow for heavy tails, asymmetry and excess kurtosis. Therefore we need a model that can capture this phenomenon. The model is the Variance Gamma model, abbreviated as VG. The assumption of normality in the Black-Sholes-Merton theory is unable to capture the heavy tail and the asymmetry that exists in the log returns asset. This form of density usually that is too high compared to normal density is known as excess kurtosis. The additional parameters in the VG process can overcome heavy tail, asymmetry and excess kurtosis. These parameters can control the kurtosis, asymmetry, and adjust the slope of the log asset density. The VG process can be obtained from two approaches. First, the VG process as a change in Brownian motion to Gamma time, abbreviated as VG1. Second, the VG process is obtained by the difference of the two Gamma processes, abbreviated as VG2. In this study we applied the VG model to predict the daily stock price of PT Bank Negara Indonesia (Persero) Tbk. The results obtained show that the VG model provides accurate daily stock price prediction results. © 2021 Elsevier B.V., All rights reserved.
+KW  - Excess kurtosis
+KW  - Heavy tail
+KW  - Stock price
+KW  - Variance gamma
+PB  - SCIK Publishing Corporation
+SN  - 19275307 (ISSN)
+LA  - English
+J2  - J. Math. Comp. Sci.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 November 2025; Cited By: 6; Correspondence Address: A. Hoyyi; Department of Mathematics, Universitas Gadjah Mada, Yogyakarta, Indonesia; email: abdulhoyyi@lecturer.undip.ac.id; A. Hoyyi; Department of Mathematics, Universitas Gadjah Mada, Yogyakarta, Indonesia; email: abdulhoyyi@lecturer.undip.ac.id
+ER  -
+
+TY  - JOUR
+AU  - Tarno, T.
+AU  - Maruddani, D.A.I.
+AU  - Rahmawati, R.
+AU  - Hoyyi, A.
+AU  - Munawar, M.
+TI  - Arma-garch model for value-at-risk (Var) prediction on stocks of pt. astra agro lestari.tbk
+PY  - 2021
+T2  - Journal of Mathematical and Computational Science
+VL  - 11
+IS  - 2
+SP  - 2136
+EP  - 2152
+DO  - 10.28919/jmcs/5453
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85103378326&doi=10.28919%2Fjmcs%2F5453&partnerID=40&md5=09c5a93f92ac5ebfdf94bf712dd5e46a
+AD  - Universitas Diponegoro, Department of Statistics, Semarang, Indonesia
+AD  - Universitas Syiah Kuala, Faculty of Mathematics and Natural Sciences, Banda Aceh, Indonesia
+AD  - Prince of Songkla University, Faculty of Science and Technology, Hatyai, Thailand
+AB  - PT. Astra Agro Lestari Tbk (AALI) is one of the plantation companies with the largest market capitalization in Indonesia. AALI stocks traded on the stock exchange have fairly fluctuating value and volatility of stock returns are not constant (heteroskedastic). One of the risk measurements that can be used to predict the risk of stock investing is Value-at-Risk (VaR). In conditions that are heteroskedastic stock returns, risk prediction can be done with the VaR ARCH/GARCH and VaR ARCH/GARCH combination model. Empirical studies were carried out on AALI stocks for the period of August 2, 2012 until October 1, 2019. The results obtained showed that the best model was ARIMA (0,0,1)-GARCH (1,2) with AIC value of-4.9793 and MSE of 0.00005. At the 95% trust level, the VaR ARCH/ARCH value was-0.3464. © 2021 Elsevier B.V., All rights reserved.
+KW  - Heteroscedastic
+KW  - Return
+KW  - Stock price
+KW  - VaR ARCH / GARCH
+PB  - SCIK Publishing Corporation
+SN  - 19275307 (ISSN)
+LA  - English
+J2  - J. Math. Comp. Sci.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 16 November 2025; Cited By: 3
+ER  -
+
