@@ -28,6 +28,6 @@ for kode in saham_list:
         all_data = all_data.join(data, how='outer')
 
 # Simpan ke CSV
-all_data.to_csv('data_saham_gabungan_all.csv')
+all_data.to_csv('data_saham_gabungan_all1.xls')
 
-print("✅ Semua data (Open, High, Low, Close, Adj Close, Volume) berhasil disimpan dalam data_saham_gabungan_all.csv")
+print("✅ Semua data (Open, High, Low, Close, Adj Close, Volume) berhasil disimpan dalam data_saham_gabungan_all.xls")
