@@ -1,0 +1,305 @@
+Date,Country,Oil_Export_Volume_MBD,Stock_Market_Index,Cumulative_GDP_Loss_Billions,Risk_Rating
+2026-02-28,Iran,3.47,1499030,0.48,Extreme
+2026-03-01,Iran,3.46,1493938,0.48,Extreme
+2026-03-02,Iran,3.43,1484019,0.48,Extreme
+2026-03-03,Iran,3.43,1462199,0.68,Extreme
+2026-03-04,Iran,3.42,1454081,0.68,Extreme
+2026-03-05,Iran,3.42,1437495,0.68,Extreme
+2026-03-06,Iran,3.38,1412324,1.19,Extreme
+2026-03-07,Iran,3.36,1414359,1.19,Extreme
+2026-03-08,Iran,3.1,1425535,1.19,Extreme
+2026-03-09,Iran,2.99,1377916,2.05,Extreme
+2026-03-10,Iran,2.93,1341678,2.05,Extreme
+2026-03-11,Iran,2.7,1312956,2.05,Extreme
+2026-03-12,Iran,2.43,1286456,2.5,Extreme
+2026-03-13,Iran,2.23,1277161,2.5,Extreme
+2026-03-14,Iran,2.03,1256522,2.5,Extreme
+2026-03-15,Iran,1.93,1248982,2.59,Extreme
+2026-03-16,Iran,1.81,1260732,2.59,Extreme
+2026-03-17,Iran,1.69,1214768,2.59,Extreme
+2026-03-18,Iran,1.61,1172398,3.04,Extreme
+2026-03-19,Iran,1.4,1170065,3.04,Critical
+2026-03-20,Iran,1.23,1186996,3.04,Critical
+2026-03-21,Iran,1.16,1116531,4.33,Critical
+2026-03-22,Iran,1.08,1102134,4.33,Critical
+2026-03-23,Iran,1.02,1092758,4.33,Critical
+2026-03-24,Iran,0.88,1035426,5.81,Critical
+2026-03-25,Iran,0.8,1048103,5.81,Critical
+2026-03-26,Iran,0.73,1006989,5.81,Critical
+2026-03-27,Iran,0.7,991885,7.02,Critical
+2026-03-28,Iran,0.63,995447,7.02,Critical
+2026-03-29,Iran,0.54,967351,7.02,Critical
+2026-03-30,Iran,0.49,918552,7.31,Critical
+2026-03-31,Iran,0.42,890526,7.31,Critical
+2026-04-01,Iran,0.39,872175,7.31,Critical
+2026-04-02,Iran,0.35,888474,9.72,Critical
+2026-04-03,Iran,0.34,867895,9.72,Critical
+2026-04-04,Iran,0.31,864660,9.72,Critical
+2026-04-05,Iran,0.26,796931,10.04,Critical
+2026-04-06,Iran,0.23,737995,10.04,Critical
+2026-02-28,Saudi Arabia,10.5,11948,0.26,Extreme
+2026-03-01,Saudi Arabia,10.54,11734,0.26,Extreme
+2026-03-02,Saudi Arabia,10.57,11580,0.26,Extreme
+2026-03-03,Saudi Arabia,10.57,11408,0.65,Extreme
+2026-03-04,Saudi Arabia,10.55,11360,0.65,Extreme
+2026-03-05,Saudi Arabia,10.59,11152,0.65,Extreme
+2026-03-06,Saudi Arabia,10.63,11165,0.71,Extreme
+2026-03-07,Saudi Arabia,10.62,11068,0.71,Extreme
+2026-03-08,Saudi Arabia,9.83,11036,0.71,Extreme
+2026-03-09,Saudi Arabia,8.95,10985,1.4,Extreme
+2026-03-10,Saudi Arabia,8.76,10833,1.4,Extreme
+2026-03-11,Saudi Arabia,8.16,10490,1.4,Extreme
+2026-03-12,Saudi Arabia,7.94,10211,2.25,Extreme
+2026-03-13,Saudi Arabia,7.19,10215,2.25,Extreme
+2026-03-14,Saudi Arabia,6.73,10170,2.25,Extreme
+2026-03-15,Saudi Arabia,6.18,9995,2.64,Extreme
+2026-03-16,Saudi Arabia,5.83,9779,2.64,Extreme
+2026-03-17,Saudi Arabia,5.47,9668,2.64,Extreme
+2026-03-18,Saudi Arabia,5.01,9527,2.74,Extreme
+2026-03-19,Saudi Arabia,4.37,9293,2.74,Critical
+2026-03-20,Saudi Arabia,3.98,9384,2.74,Critical
+2026-03-21,Saudi Arabia,3.52,9465,3.83,Critical
+2026-03-22,Saudi Arabia,3.23,9192,3.83,Critical
+2026-03-23,Saudi Arabia,2.86,8694,3.83,Critical
+2026-03-24,Saudi Arabia,2.65,8761,4.16,Critical
+2026-03-25,Saudi Arabia,2.4,8862,4.16,Critical
+2026-03-26,Saudi Arabia,2.29,8518,4.16,Critical
+2026-03-27,Saudi Arabia,2.01,8360,4.26,Critical
+2026-03-28,Saudi Arabia,1.89,8049,4.26,Critical
+2026-03-29,Saudi Arabia,1.66,7881,4.26,Critical
+2026-03-30,Saudi Arabia,1.49,7405,6.0,Critical
+2026-03-31,Saudi Arabia,1.27,6817,6.0,Critical
+2026-04-01,Saudi Arabia,1.13,6508,6.0,Critical
+2026-04-02,Saudi Arabia,0.97,6606,6.12,Critical
+2026-04-03,Saudi Arabia,0.86,6558,6.12,Critical
+2026-04-04,Saudi Arabia,0.81,6190,6.12,Critical
+2026-04-05,Saudi Arabia,0.71,6312,7.53,Critical
+2026-04-06,Saudi Arabia,0.68,6373,7.53,Critical
+2026-02-28,United Arab Emirates,3.21,3957,0.47,Extreme
+2026-03-01,United Arab Emirates,3.19,3891,0.47,Extreme
+2026-03-02,United Arab Emirates,3.16,3868,0.47,Extreme
+2026-03-03,United Arab Emirates,3.19,3814,0.62,Extreme
+2026-03-04,United Arab Emirates,3.21,3804,0.62,Extreme
+2026-03-05,United Arab Emirates,3.2,3754,0.62,Extreme
+2026-03-06,United Arab Emirates,3.18,3752,0.91,Extreme
+2026-03-07,United Arab Emirates,3.16,3721,0.91,Extreme
+2026-03-08,United Arab Emirates,2.99,3751,0.91,Extreme
+2026-03-09,United Arab Emirates,2.84,3651,1.08,Extreme
+2026-03-10,United Arab Emirates,2.75,3656,1.08,Extreme
+2026-03-11,United Arab Emirates,2.5,3662,1.08,Extreme
+2026-03-12,United Arab Emirates,2.34,3561,1.46,Extreme
+2026-03-13,United Arab Emirates,2.21,3465,1.46,Extreme
+2026-03-14,United Arab Emirates,1.97,3397,1.46,Extreme
+2026-03-15,United Arab Emirates,1.88,3303,1.93,Extreme
+2026-03-16,United Arab Emirates,1.7,3173,1.93,Extreme
+2026-03-17,United Arab Emirates,1.6,3067,1.93,Extreme
+2026-03-18,United Arab Emirates,1.47,3041,2.57,Extreme
+2026-03-19,United Arab Emirates,1.32,3044,2.57,Critical
+2026-03-20,United Arab Emirates,1.24,3067,2.57,Critical
+2026-03-21,United Arab Emirates,1.12,3091,3.78,Critical
+2026-03-22,United Arab Emirates,1.02,3013,3.78,Critical
+2026-03-23,United Arab Emirates,0.97,3018,3.78,Critical
+2026-03-24,United Arab Emirates,0.88,2991,4.11,Critical
+2026-03-25,United Arab Emirates,0.81,2875,4.11,Critical
+2026-03-26,United Arab Emirates,0.7,2836,4.11,Critical
+2026-03-27,United Arab Emirates,0.65,2753,4.94,Critical
+2026-03-28,United Arab Emirates,0.62,2616,4.94,Critical
+2026-03-29,United Arab Emirates,0.58,2544,4.94,Critical
+2026-03-30,United Arab Emirates,0.51,2543,6.84,Critical
+2026-03-31,United Arab Emirates,0.44,2478,6.84,Critical
+2026-04-01,United Arab Emirates,0.4,2404,6.84,Critical
+2026-04-02,United Arab Emirates,0.35,2289,7.35,Critical
+2026-04-03,United Arab Emirates,0.3,2119,7.35,Critical
+2026-04-04,United Arab Emirates,0.25,2112,7.35,Critical
+2026-04-05,United Arab Emirates,0.21,1964,8.66,Critical
+2026-04-06,United Arab Emirates,0.2,1987,8.66,Critical
+2026-02-28,Qatar,0.61,10840,0.14,Elevated
+2026-03-01,Qatar,0.6,10850,0.14,Elevated
+2026-03-02,Qatar,0.6,10794,0.14,Elevated
+2026-03-03,Qatar,0.6,10825,0.15,Elevated
+2026-03-04,Qatar,0.61,10761,0.15,Elevated
+2026-03-05,Qatar,0.6,10812,0.15,Elevated
+2026-03-06,Qatar,0.6,10679,0.23,Elevated
+2026-03-07,Qatar,0.6,10524,0.23,Elevated
+2026-03-08,Qatar,0.55,10586,0.23,High
+2026-03-09,Qatar,0.52,10542,0.53,High
+2026-03-10,Qatar,0.47,10132,0.53,High
+2026-03-11,Qatar,0.45,10119,0.53,High
+2026-03-12,Qatar,0.42,10200,0.66,High
+2026-03-13,Qatar,0.38,9843,0.66,High
+2026-03-14,Qatar,0.36,9527,0.66,High
+2026-03-15,Qatar,0.33,9604,0.88,High
+2026-03-16,Qatar,0.33,9553,0.88,High
+2026-03-17,Qatar,0.3,9277,0.88,High
+2026-03-18,Qatar,0.28,9048,1.1,High
+2026-03-19,Qatar,0.27,9149,1.1,Extreme
+2026-03-20,Qatar,0.23,9283,1.1,Extreme
+2026-03-21,Qatar,0.2,9145,1.55,Extreme
+2026-03-22,Qatar,0.17,8984,1.55,Extreme
+2026-03-23,Qatar,0.15,8947,1.55,Extreme
+2026-03-24,Qatar,0.14,8523,1.98,Extreme
+2026-03-25,Qatar,0.13,8420,1.98,Extreme
+2026-03-26,Qatar,0.12,8083,1.98,Extreme
+2026-03-27,Qatar,0.11,7753,2.06,Extreme
+2026-03-28,Qatar,0.1,7714,2.06,Extreme
+2026-03-29,Qatar,0.09,7477,2.06,Extreme
+2026-03-30,Qatar,0.08,6955,2.38,Extreme
+2026-03-31,Qatar,0.07,6876,2.38,Extreme
+2026-04-01,Qatar,0.06,6908,2.38,Extreme
+2026-04-02,Qatar,0.06,7013,2.47,Extreme
+2026-04-03,Qatar,0.05,6965,2.47,Extreme
+2026-04-04,Qatar,0.05,6473,2.47,Extreme
+2026-04-05,Qatar,0.05,6267,2.53,Extreme
+2026-04-06,Qatar,0.05,6323,2.53,Extreme
+2026-02-28,Kuwait,2.68,7881,0.1,Extreme
+2026-03-01,Kuwait,2.69,7867,0.1,Extreme
+2026-03-02,Kuwait,2.68,7756,0.1,Extreme
+2026-03-03,Kuwait,2.65,7764,0.18,Extreme
+2026-03-04,Kuwait,2.65,7666,0.18,Extreme
+2026-03-05,Kuwait,2.65,7551,0.18,Extreme
+2026-03-06,Kuwait,2.55,7455,0.23,Extreme
+2026-03-07,Kuwait,2.54,7380,0.23,Extreme
+2026-03-08,Kuwait,2.41,7118,0.23,Extreme
+2026-03-09,Kuwait,2.23,7149,0.56,Extreme
+2026-03-10,Kuwait,2.08,7029,0.56,Extreme
+2026-03-11,Kuwait,1.97,6769,0.56,Extreme
+2026-03-12,Kuwait,1.83,6528,0.87,Extreme
+2026-03-13,Kuwait,1.75,6459,0.87,Extreme
+2026-03-14,Kuwait,1.67,6465,0.87,Extreme
+2026-03-15,Kuwait,1.58,6487,1.28,Extreme
+2026-03-16,Kuwait,1.45,6253,1.28,Extreme
+2026-03-17,Kuwait,1.34,6160,1.28,Extreme
+2026-03-18,Kuwait,1.24,6122,1.79,Extreme
+2026-03-19,Kuwait,1.19,5834,1.79,Critical
+2026-03-20,Kuwait,1.06,5838,1.79,Critical
+2026-03-21,Kuwait,1.0,5920,2.36,Critical
+2026-03-22,Kuwait,0.88,5935,2.36,Critical
+2026-03-23,Kuwait,0.84,5986,2.36,Critical
+2026-03-24,Kuwait,0.79,5805,2.8,Critical
+2026-03-25,Kuwait,0.74,5837,2.8,Critical
+2026-03-26,Kuwait,0.66,5716,2.8,Critical
+2026-03-27,Kuwait,0.61,5436,3.53,Critical
+2026-03-28,Kuwait,0.55,5487,3.53,Critical
+2026-03-29,Kuwait,0.48,5205,3.53,Critical
+2026-03-30,Kuwait,0.42,5003,4.21,Critical
+2026-03-31,Kuwait,0.38,4621,4.21,Critical
+2026-04-01,Kuwait,0.34,4533,4.21,Critical
+2026-04-02,Kuwait,0.29,4573,4.81,Critical
+2026-04-03,Kuwait,0.27,4629,4.81,Critical
+2026-04-04,Kuwait,0.22,4637,4.81,Critical
+2026-04-05,Kuwait,0.2,4494,5.95,Critical
+2026-04-06,Kuwait,0.19,4194,5.95,Critical
+2026-02-28,Iraq,4.3,600,0.08,High
+2026-03-01,Iraq,4.31,591,0.08,High
+2026-03-02,Iraq,4.34,590,0.08,High
+2026-03-03,Iraq,4.37,590,0.21,High
+2026-03-04,Iraq,4.35,586,0.21,High
+2026-03-05,Iraq,4.38,587,0.21,High
+2026-03-06,Iraq,4.22,587,0.41,High
+2026-03-07,Iraq,4.22,589,0.41,High
+2026-03-08,Iraq,3.87,590,0.41,Extreme
+2026-03-09,Iraq,3.66,570,0.45,Extreme
+2026-03-10,Iraq,3.48,552,0.45,Extreme
+2026-03-11,Iraq,3.21,540,0.45,Extreme
+2026-03-12,Iraq,3.13,538,0.79,Extreme
+2026-03-13,Iraq,2.97,521,0.79,Extreme
+2026-03-14,Iraq,2.84,523,0.79,Extreme
+2026-03-15,Iraq,2.66,509,1.01,Extreme
+2026-03-16,Iraq,2.61,508,1.01,Extreme
+2026-03-17,Iraq,2.57,504,1.01,Extreme
+2026-03-18,Iraq,2.35,490,1.4,Extreme
+2026-03-19,Iraq,2.24,484,1.4,Extreme
+2026-03-20,Iraq,2.05,468,1.4,Extreme
+2026-03-21,Iraq,1.92,464,2.0,Extreme
+2026-03-22,Iraq,1.74,454,2.0,Extreme
+2026-03-23,Iraq,1.59,439,2.0,Extreme
+2026-03-24,Iraq,1.44,423,2.12,Extreme
+2026-03-25,Iraq,1.41,418,2.12,Extreme
+2026-03-26,Iraq,1.23,415,2.12,Extreme
+2026-03-27,Iraq,1.07,395,2.68,Extreme
+2026-03-28,Iraq,0.95,395,2.68,Extreme
+2026-03-29,Iraq,0.84,390,2.68,Extreme
+2026-03-30,Iraq,0.73,398,2.97,Extreme
+2026-03-31,Iraq,0.66,367,2.97,Extreme
+2026-04-01,Iraq,0.57,345,2.97,Extreme
+2026-04-02,Iraq,0.49,336,3.74,Extreme
+2026-04-03,Iraq,0.41,326,3.74,Extreme
+2026-04-04,Iraq,0.35,328,3.74,Extreme
+2026-04-05,Iraq,0.32,306,4.03,Extreme
+2026-04-06,Iraq,0.28,287,4.03,Extreme
+2026-02-28,Oman,1.0,4420,0.05,Elevated
+2026-03-01,Oman,0.99,4418,0.05,Elevated
+2026-03-02,Oman,0.99,4362,0.05,Elevated
+2026-03-03,Oman,0.99,4370,0.12,Elevated
+2026-03-04,Oman,0.98,4379,0.12,Elevated
+2026-03-05,Oman,0.99,4334,0.12,Elevated
+2026-03-06,Oman,0.98,4339,0.14,Elevated
+2026-03-07,Oman,0.98,4314,0.14,Elevated
+2026-03-08,Oman,0.98,4241,0.14,High
+2026-03-09,Oman,0.96,4223,0.33,High
+2026-03-10,Oman,0.95,4187,0.33,High
+2026-03-11,Oman,0.93,4152,0.33,High
+2026-03-12,Oman,0.9,4043,0.52,High
+2026-03-13,Oman,0.88,4036,0.52,High
+2026-03-14,Oman,0.87,4028,0.52,High
+2026-03-15,Oman,0.85,3991,0.68,High
+2026-03-16,Oman,0.84,4024,0.68,High
+2026-03-17,Oman,0.83,3871,0.68,High
+2026-03-18,Oman,0.81,3788,0.7,High
+2026-03-19,Oman,0.8,3798,0.7,Extreme
+2026-03-20,Oman,0.78,3762,0.7,Extreme
+2026-03-21,Oman,0.77,3607,0.95,Extreme
+2026-03-22,Oman,0.76,3425,0.95,Extreme
+2026-03-23,Oman,0.75,3371,0.95,Extreme
+2026-03-24,Oman,0.73,3377,1.08,Extreme
+2026-03-25,Oman,0.72,3359,1.08,Extreme
+2026-03-26,Oman,0.71,3242,1.08,Extreme
+2026-03-27,Oman,0.72,3290,1.21,Extreme
+2026-03-28,Oman,0.72,3181,1.21,Extreme
+2026-03-29,Oman,0.71,3228,1.21,Extreme
+2026-03-30,Oman,0.71,3100,1.35,Extreme
+2026-03-31,Oman,0.71,2893,1.35,Extreme
+2026-04-01,Oman,0.71,2832,1.35,Extreme
+2026-04-02,Oman,0.69,2709,1.67,Extreme
+2026-04-03,Oman,0.67,2730,1.67,Extreme
+2026-04-04,Oman,0.66,2657,1.67,Extreme
+2026-04-05,Oman,0.64,2709,2.0,Extreme
+2026-04-06,Oman,0.64,2498,2.0,Extreme
+2026-02-28,Bahrain,0.2,1979,0.23,Extreme
+2026-03-01,Bahrain,0.2,1973,0.23,Extreme
+2026-03-02,Bahrain,0.2,1967,0.23,Extreme
+2026-03-03,Bahrain,0.2,1957,0.31,Extreme
+2026-03-04,Bahrain,0.2,1953,0.31,Extreme
+2026-03-05,Bahrain,0.19,1919,0.31,Extreme
+2026-03-06,Bahrain,0.19,1893,0.53,Extreme
+2026-03-07,Bahrain,0.19,1869,0.53,Extreme
+2026-03-08,Bahrain,0.19,1814,0.53,Extreme
+2026-03-09,Bahrain,0.17,1742,1.08,Extreme
+2026-03-10,Bahrain,0.16,1730,1.08,Extreme
+2026-03-11,Bahrain,0.15,1705,1.08,Extreme
+2026-03-12,Bahrain,0.14,1659,1.3,Extreme
+2026-03-13,Bahrain,0.12,1631,1.3,Extreme
+2026-03-14,Bahrain,0.12,1569,1.3,Extreme
+2026-03-15,Bahrain,0.11,1531,1.91,Extreme
+2026-03-16,Bahrain,0.11,1473,1.91,Extreme
+2026-03-17,Bahrain,0.1,1427,1.91,Extreme
+2026-03-18,Bahrain,0.1,1414,2.62,Extreme
+2026-03-19,Bahrain,0.09,1349,2.62,Critical
+2026-03-20,Bahrain,0.09,1295,2.62,Critical
+2026-03-21,Bahrain,0.08,1295,3.42,Critical
+2026-03-22,Bahrain,0.07,1285,3.42,Critical
+2026-03-23,Bahrain,0.07,1223,3.42,Critical
+2026-03-24,Bahrain,0.06,1223,4.26,Critical
+2026-03-25,Bahrain,0.06,1183,4.26,Critical
+2026-03-26,Bahrain,0.06,1186,4.26,Critical
+2026-03-27,Bahrain,0.05,1197,4.46,Critical
+2026-03-28,Bahrain,0.05,1149,4.46,Critical
+2026-03-29,Bahrain,0.05,1135,4.46,Critical
+2026-03-30,Bahrain,0.05,1108,6.03,Critical
+2026-03-31,Bahrain,0.05,1077,6.03,Critical
+2026-04-01,Bahrain,0.05,1062,6.03,Critical
+2026-04-02,Bahrain,0.05,1049,6.71,Critical
+2026-04-03,Bahrain,0.05,1069,6.71,Critical
+2026-04-04,Bahrain,0.05,1000,6.71,Critical
+2026-04-05,Bahrain,0.05,1007,6.92,Critical
+2026-04-06,Bahrain,0.05,1024,6.92,Critical

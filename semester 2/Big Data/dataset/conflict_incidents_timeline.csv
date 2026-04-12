@@ -1,0 +1,72 @@
+Incident_ID,Date,Country,Target_Facility_ID,Target_Category,Severity,Impact_Radius_KM,Weaponry_Type
+INC-20260228-001,2026-02-28,Iran,FAC-0094,Military Base,Catastrophic,45.0,Air Strike
+INC-20260228-002,2026-02-28,Iran,FAC-0262,Military Base,Catastrophic,38.5,Ballistic Missile
+INC-20260228-003,2026-02-28,Iran,FAC-0136,Communication Hub,High,0.0,Cyber Attack
+INC-20260301-004,2026-03-01,Iran,FAC-0349,Oil Refinery,High,12.3,Air Strike
+INC-20260301-005,2026-03-01,Saudi Arabia,FAC-0210,Oil Refinery,Medium,4.2,Drone Swarm
+INC-20260302-006,2026-03-02,United Arab Emirates,FAC-0320,Port Cargo Terminal,High,15.8,Ballistic Missile
+INC-20260302-007,2026-03-02,Iran,FAC-0073,Power Plant,High,22.0,Air Strike
+INC-20260303-008,2026-03-03,United Arab Emirates,FAC-0115,Airport,Medium,8.5,Drone Swarm
+INC-20260304-009,2026-03-04,United Arab Emirates,FAC-0066,Water Desalination,Medium,2.18,Ballistic Missile
+INC-20260305-010,2026-03-05,Iran,FAC-0339,Oil Refinery,High,2.58,Cyber Attack
+INC-20260306-011,2026-03-06,Iran,FAC-0338,Airport,High,5.26,Drone Swarm
+INC-20260306-012,2026-03-06,Saudi Arabia,FAC-0124,Water Desalination,Medium,3.71,Cyber Attack
+INC-20260306-013,2026-03-06,Saudi Arabia,FAC-0215,Airport,High,9.13,Ballistic Missile
+INC-20260306-014,2026-03-06,United Arab Emirates,FAC-0003,Power Plant,High,40.47,Air Strike
+INC-20260307-015,2026-03-07,Iran,FAC-0198,Military Base,Catastrophic,50.0,Air Strike
+INC-20260308-016,2026-03-08,Iran,FAC-0149,Port Cargo Terminal,Catastrophic,25.0,Naval Mine
+INC-20260309-017,2026-03-09,Kuwait,FAC-0070,Airport,Medium,3.02,Ballistic Missile
+INC-20260310-018,2026-03-10,Saudi Arabia,FAC-0028,Port Cargo Terminal,Catastrophic,15.34,Air Strike
+INC-20260310-019,2026-03-10,United Arab Emirates,FAC-0244,Port Cargo Terminal,High,18.5,Drone Swarm
+INC-20260311-020,2026-03-11,Oman,FAC-0015,Airport,Catastrophic,26.21,Drone Swarm
+INC-20260311-021,2026-03-11,Kuwait,FAC-0047,Airport,Catastrophic,39.5,Drone Swarm
+INC-20260312-022,2026-03-12,Iran,FAC-0095,Oil Refinery,High,30.0,Air Strike
+INC-20260313-023,2026-03-13,Bahrain,FAC-0333,Water Desalination,High,12.0,Ballistic Missile
+INC-20260314-024,2026-03-14,Iran,FAC-0323,Power Plant,Catastrophic,35.0,Air Strike
+INC-20260315-025,2026-03-15,Saudi Arabia,FAC-0322,Oil Refinery,High,20.0,Drone Swarm
+INC-20260316-026,2026-03-16,Saudi Arabia,FAC-0192,Water Desalination,High,7.22,Ballistic Missile
+INC-20260317-027,2026-03-17,Iraq,FAC-0040,Oil Refinery,Medium,3.0,Sabotage
+INC-20260318-028,2026-03-18,United Arab Emirates,FAC-0106,Power Plant,Low,1.68,Ballistic Missile
+INC-20260318-029,2026-03-18,Saudi Arabia,FAC-0213,Power Plant,Medium,0.8,Cyber Attack
+INC-20260318-030,2026-03-18,Iran,FAC-0095,Oil Refinery,Catastrophic,17.04,Drone Swarm
+INC-20260319-031,2026-03-19,Iraq,FAC-0038,Airport,High,23.46,Cyber Attack
+INC-20260319-032,2026-03-19,Iran,FAC-0284,Power Plant,High,20.49,Sabotage
+INC-20260319-033,2026-03-19,United Arab Emirates,FAC-0158,Port Cargo Terminal,Medium,1.68,Cyber Attack
+INC-20260320-034,2026-03-20,Iran,FAC-0233,Oil Refinery,Catastrophic,42.0,Air Strike
+INC-20260320-035,2026-03-20,Kuwait,FAC-0162,Oil Refinery,High,18.0,Drone Swarm
+INC-20260321-036,2026-03-21,Saudi Arabia,FAC-0185,Power Plant,High,15.0,Ballistic Missile
+INC-20260321-037,2026-03-21,Iran,FAC-0136,Communication Hub,Catastrophic,0.0,Cyber Attack
+INC-20260322-038,2026-03-22,United Arab Emirates,FAC-0111,Oil Refinery,High,22.5,Drone Swarm
+INC-20260322-039,2026-03-22,Bahrain,FAC-0064,Power Plant,Medium,8.0,Ballistic Missile
+INC-20260323-040,2026-03-23,Iran,FAC-0262,Military Base,Catastrophic,48.0,Air Strike
+INC-20260324-041,2026-03-24,Qatar,FAC-0171,Port Cargo Terminal,Medium,5.0,Naval Mine
+INC-20260324-042,2026-03-24,Saudi Arabia,FAC-0260,Oil Refinery,Catastrophic,35.0,Drone Swarm
+INC-20260325-043,2026-03-25,Iran,FAC-0037,Power Plant,Catastrophic,40.0,Air Strike
+INC-20260325-044,2026-03-25,Kuwait,FAC-0199,Water Desalination,High,10.0,Ballistic Missile
+INC-20260326-045,2026-03-26,United Arab Emirates,FAC-0115,Airport,High,25.0,Drone Swarm
+INC-20260326-046,2026-03-26,Iran,FAC-0023,Oil Refinery,High,28.0,Air Strike
+INC-20260327-047,2026-03-27,Saudi Arabia,FAC-0247,Communication Hub,High,0.0,Cyber Attack
+INC-20260327-048,2026-03-27,Iraq,FAC-0311,Power Plant,Medium,6.0,Drone Swarm
+INC-20260328-049,2026-03-28,Iran,FAC-0062,Water Desalination,High,15.0,Air Strike
+INC-20260328-050,2026-03-28,Bahrain,FAC-0097,Port Cargo Terminal,Medium,7.0,Drone Swarm
+INC-20260329-051,2026-03-29,Kuwait,FAC-0157,Oil Refinery,Catastrophic,30.0,Drone Swarm
+INC-20260329-052,2026-03-29,Iran,FAC-0019,Military Base,Catastrophic,45.0,Air Strike
+INC-20260330-053,2026-03-30,United Arab Emirates,FAC-0126,Oil Refinery,Catastrophic,32.0,Drone Swarm
+INC-20260330-054,2026-03-30,United Arab Emirates,FAC-0133,Port Cargo Terminal,High,20.0,Naval Mine
+INC-20260331-055,2026-03-31,Iran,FAC-0119,Power Plant,Catastrophic,38.0,Air Strike
+INC-20260331-056,2026-03-31,Saudi Arabia,FAC-0173,Port Cargo Terminal,High,22.0,Drone Swarm
+INC-20260401-057,2026-04-01,Bahrain,FAC-0333,Water Desalination,Catastrophic,18.0,Ballistic Missile
+INC-20260401-058,2026-04-01,Iran,FAC-0265,Oil Refinery,Catastrophic,40.0,Air Strike
+INC-20260402-059,2026-04-02,Kuwait,FAC-0145,Power Plant,High,14.0,Drone Swarm
+INC-20260402-060,2026-04-02,Iran,FAC-0136,Communication Hub,High,0.0,Cyber Attack
+INC-20260403-061,2026-04-03,Kuwait,FAC-0191,Oil Refinery,High,25.0,Drone Swarm
+INC-20260403-062,2026-04-03,Bahrain,FAC-0307,Oil Refinery,High,16.0,Ballistic Missile
+INC-20260403-063,2026-04-03,United Arab Emirates,FAC-0017,Oil Refinery,High,20.0,Drone Swarm
+INC-20260404-064,2026-04-04,Iran,FAC-0034,Power Plant,Catastrophic,42.0,Air Strike
+INC-20260404-065,2026-04-04,Saudi Arabia,FAC-0205,Oil Refinery,High,18.0,Drone Swarm
+INC-20260405-066,2026-04-05,Iran,FAC-0227,Oil Refinery,Catastrophic,35.0,Air Strike
+INC-20260405-067,2026-04-05,United Arab Emirates,FAC-0132,Water Desalination,High,12.0,Ballistic Missile
+INC-20260405-068,2026-04-05,Kuwait,FAC-0327,Port Cargo Terminal,Medium,8.0,Drone Swarm
+INC-20260406-069,2026-04-06,Iran,FAC-0094,Military Base,Catastrophic,48.0,Air Strike
+INC-20260406-070,2026-04-06,Iran,FAC-0212,Power Plant,High,30.0,Air Strike
+INC-20260406-071,2026-04-06,Saudi Arabia,FAC-0242,Water Desalination,Medium,6.0,Drone Swarm

@@ -1,0 +1,351 @@
+Facility_ID,Facility_Name,Country,Category,Capacity_Rating,Latitude,Longitude,Pre_War_Status,Current_War_Status
+FAC-0001,"Rodriguez, Figueroa and Sanchez Oil Refinery",United Arab Emirates,Oil Refinery,High,23.4626,52.6161,Fully Operational,Destroyed
+FAC-0002,Doyle Ltd Port Cargo Terminal,Iran,Port Cargo Terminal,Low,25.4172,48.1541,Fully Operational,Damaged
+FAC-0003,"Mcclain, Miller and Henderson Power Plant",United Arab Emirates,Power Plant,Low,23.2715,54.4463,Fully Operational,Destroyed
+FAC-0004,Davis and Sons Port Cargo Terminal,Qatar,Port Cargo Terminal,Low,24.7643,51.5615,Fully Operational,Operational
+FAC-0005,"Guzman, Hoffman and Baldwin Power Plant",Kuwait,Power Plant,Critical,29.7914,47.8865,Fully Operational,Damaged
+FAC-0006,"Gardner, Robinson and Lawrence Airport",United Arab Emirates,Airport,High,24.6648,55.8085,Fully Operational,Damaged
+FAC-0007,Blake and Sons Oil Refinery,Iran,Oil Refinery,Medium,26.1171,48.423,Fully Operational,Operational
+FAC-0008,"Henderson, Ramirez and Lewis Port Cargo Terminal",Saudi Arabia,Port Cargo Terminal,High,19.3521,39.6065,Fully Operational,Offline
+FAC-0009,Garcia-James Water Desalination,Iran,Water Desalination,High,27.2876,51.2097,Fully Operational,Offline
+FAC-0010,Abbott-Munoz Airport,Qatar,Airport,Medium,25.8192,50.9061,Fully Operational,Operational
+FAC-0011,Blair PLC Military Base,Iran,Military Base,Medium,37.2691,49.9789,Maintenance,Destroyed
+FAC-0012,Dudley Group Oil Refinery,Saudi Arabia,Oil Refinery,Medium,19.946,45.7887,Fully Operational,Operational
+FAC-0013,Arnold Ltd Oil Refinery,Saudi Arabia,Oil Refinery,Low,31.9606,44.7001,Fully Operational,Operational
+FAC-0014,"Mcclure, Ward and Lee Water Desalination",United Arab Emirates,Water Desalination,Critical,23.9776,51.8176,Fully Operational,Damaged
+FAC-0015,Williams and Sons Airport,Oman,Airport,Medium,16.7114,57.6216,Fully Operational,Operational
+FAC-0016,Galloway-Wyatt Oil Refinery,United Arab Emirates,Oil Refinery,High,24.0217,53.7686,Fully Operational,Offline
+FAC-0017,James Group Oil Refinery,United Arab Emirates,Oil Refinery,High,25.6942,55.8526,Fully Operational,Operational
+FAC-0018,"Flowers, Martin and Kelly Water Desalination",Iran,Water Desalination,Low,32.5513,58.7939,Fully Operational,Damaged
+FAC-0019,"Adams, Zuniga and Wong Military Base",Iran,Military Base,Low,37.3021,59.8016,Fully Operational,Damaged
+FAC-0020,"Reid, Ferguson and Sanchez Oil Refinery",Iraq,Oil Refinery,High,33.0337,39.4714,Fully Operational,Damaged
+FAC-0021,Gray-Mayo Power Plant,Saudi Arabia,Power Plant,Medium,20.2409,52.3211,Fully Operational,Damaged
+FAC-0022,"Watts, Robinson and Nguyen Oil Refinery",Qatar,Oil Refinery,Medium,25.0299,51.5956,Fully Operational,Operational
+FAC-0023,Perez Inc Oil Refinery,Iran,Oil Refinery,Medium,29.7332,55.1779,Fully Operational,Operational
+FAC-0024,Morales-Jones Oil Refinery,United Arab Emirates,Oil Refinery,Medium,25.669,55.7982,Fully Operational,Operational
+FAC-0025,"Walter, Edwards and Rios Oil Refinery",Iran,Oil Refinery,High,38.0972,54.8498,Fully Operational,Damaged
+FAC-0026,Wilkerson-Day Oil Refinery,Iran,Oil Refinery,High,31.0347,52.048,Fully Operational,Damaged
+FAC-0027,Baker and Sons Oil Refinery,Bahrain,Oil Refinery,Medium,25.8221,50.4697,Fully Operational,Destroyed
+FAC-0028,"Hoffman, Baker and Richards Port Cargo Terminal",Saudi Arabia,Port Cargo Terminal,Medium,20.4567,39.2459,Fully Operational,Offline
+FAC-0029,"Ross, Robinson and Bright Oil Refinery",United Arab Emirates,Oil Refinery,Critical,25.9975,55.6801,Fully Operational,Offline
+FAC-0030,"Snyder, Campos and Callahan Power Plant",Iran,Power Plant,Medium,27.9925,51.6198,Maintenance,Operational
+FAC-0031,Burton Ltd Water Desalination,Saudi Arabia,Water Desalination,Critical,23.2801,42.8832,Fully Operational,Offline
+FAC-0032,Carlson-Cruz Oil Refinery,Qatar,Oil Refinery,Medium,25.0044,51.5718,Fully Operational,Operational
+FAC-0033,"Ferrell, Rice and Maddox Power Plant",Iran,Power Plant,Critical,32.0399,60.2017,Fully Operational,Operational
+FAC-0034,Frazier Inc Power Plant,Iran,Power Plant,High,34.453,48.4689,Fully Operational,Operational
+FAC-0035,"Dyer, Potter and Mack Power Plant",United Arab Emirates,Power Plant,Critical,23.9673,54.4184,Fully Operational,Damaged
+FAC-0036,Rodriguez-Graham Oil Refinery,Qatar,Oil Refinery,Medium,25.1728,51.3045,Fully Operational,Operational
+FAC-0037,Smith-Bowen Power Plant,Iran,Power Plant,Medium,38.9784,62.9258,Fully Operational,Operational
+FAC-0038,"Baker, Mason and White Airport",Iraq,Airport,High,36.2979,42.3844,Fully Operational,Operational
+FAC-0039,Harrell LLC Communication Hub,United Arab Emirates,Communication Hub,Medium,24.7889,51.5391,Fully Operational,Destroyed
+FAC-0040,"Romero, Gonzalez and Brooks Oil Refinery",Iraq,Oil Refinery,Medium,29.9581,39.8382,Fully Operational,Operational
+FAC-0041,Ryan PLC Oil Refinery,Qatar,Oil Refinery,Critical,25.5782,50.9376,Fully Operational,Operational
+FAC-0042,George Group Port Cargo Terminal,Iran,Port Cargo Terminal,High,28.8735,44.0674,Fully Operational,Destroyed
+FAC-0043,Rodriguez LLC Power Plant,Qatar,Power Plant,High,25.2271,50.7087,Maintenance,Operational
+FAC-0044,Allen-Allen Airport,United Arab Emirates,Airport,Medium,24.5388,52.2405,Fully Operational,Operational
+FAC-0045,"Arroyo, Miller and Tucker Airport",Kuwait,Airport,Low,29.9383,46.8991,Fully Operational,Operational
+FAC-0046,Spence PLC Port Cargo Terminal,Iraq,Port Cargo Terminal,High,34.1515,40.2992,Maintenance,Offline
+FAC-0047,Anderson Group Airport,Kuwait,Airport,Critical,28.5397,47.8995,Fully Operational,Operational
+FAC-0048,"Martin, Rose and Obrien Airport",Iraq,Airport,High,31.2145,46.4375,Fully Operational,Operational
+FAC-0049,Hickman Ltd Airport,Iran,Airport,Medium,31.4442,49.7986,Fully Operational,Destroyed
+FAC-0050,"Harris, Collins and Carney Port Cargo Terminal",Iran,Port Cargo Terminal,High,37.1009,62.3709,Fully Operational,Damaged
+FAC-0051,"Brooks, Lam and Hayes Power Plant",Bahrain,Power Plant,Low,26.2514,50.3577,Maintenance,Offline
+FAC-0052,Walker LLC Oil Refinery,Saudi Arabia,Oil Refinery,High,22.953,49.2994,Fully Operational,Operational
+FAC-0053,Chapman and Sons Power Plant,Saudi Arabia,Power Plant,Critical,20.0756,48.8845,Fully Operational,Operational
+FAC-0054,"Robinson, Jones and Welch Water Desalination",Qatar,Water Desalination,High,25.6401,51.0278,Fully Operational,Operational
+FAC-0055,Jones Inc Airport,Saudi Arabia,Airport,Medium,27.5161,40.3068,Fully Operational,Operational
+FAC-0056,Jones-Young Oil Refinery,Saudi Arabia,Oil Refinery,Critical,22.7271,53.7476,Fully Operational,Destroyed
+FAC-0057,"Washington, Ryan and Cummings Power Plant",Saudi Arabia,Power Plant,Medium,16.0065,40.0252,Fully Operational,Damaged
+FAC-0058,"Johnston, Sanchez and Kennedy Port Cargo Terminal",Saudi Arabia,Port Cargo Terminal,High,19.4192,43.9369,Fully Operational,Offline
+FAC-0059,Lee-Davis Power Plant,Iran,Power Plant,High,33.8612,50.3686,Fully Operational,Destroyed
+FAC-0060,Gomez-Jenkins Oil Refinery,Iran,Oil Refinery,High,25.342,48.652,Fully Operational,Damaged
+FAC-0061,"Brown, Valdez and Lucas Power Plant",Saudi Arabia,Power Plant,Medium,19.111,48.6234,Fully Operational,Damaged
+FAC-0062,Powell LLC Water Desalination,Iran,Water Desalination,Low,35.7806,46.0252,Maintenance,Damaged
+FAC-0063,Wright and Sons Oil Refinery,United Arab Emirates,Oil Refinery,High,23.3722,55.7417,Fully Operational,Damaged
+FAC-0064,"West, Henderson and Ramirez Power Plant",Bahrain,Power Plant,High,26.26,50.7457,Fully Operational,Damaged
+FAC-0065,Baxter Inc Power Plant,Kuwait,Power Plant,Medium,29.9355,47.9129,Fully Operational,Damaged
+FAC-0066,Morton-Chase Water Desalination,United Arab Emirates,Water Desalination,Low,24.3245,54.6337,Fully Operational,Operational
+FAC-0067,Williams PLC Port Cargo Terminal,Saudi Arabia,Port Cargo Terminal,High,24.6424,36.9059,Fully Operational,Operational
+FAC-0068,Novak and Sons Port Cargo Terminal,Iran,Port Cargo Terminal,Medium,32.5966,51.8997,Maintenance,Operational
+FAC-0069,Russell Group Water Desalination,United Arab Emirates,Water Desalination,Low,25.4986,55.328,Fully Operational,Damaged
+FAC-0070,Hancock Inc Airport,Kuwait,Airport,Medium,30.0255,47.2961,Fully Operational,Destroyed
+FAC-0071,Gray Group Oil Refinery,Iran,Oil Refinery,High,31.1017,44.5515,Fully Operational,Damaged
+FAC-0072,House-Glover Power Plant,Iran,Power Plant,Medium,26.7868,55.8229,Fully Operational,Operational
+FAC-0073,Henderson-Bernard Power Plant,Iran,Power Plant,Medium,26.8998,52.7723,Fully Operational,Operational
+FAC-0074,"Stanley, Tucker and Lee Water Desalination",Saudi Arabia,Water Desalination,Medium,22.066,49.7922,Fully Operational,Destroyed
+FAC-0075,Novak PLC Power Plant,Iran,Power Plant,High,38.9987,50.6492,Fully Operational,Destroyed
+FAC-0076,"Daniels, Adkins and Brown Military Base",Kuwait,Military Base,Low,28.819,46.5387,Fully Operational,Operational
+FAC-0077,"Woods, Calhoun and Schmidt Oil Refinery",United Arab Emirates,Oil Refinery,High,24.9481,55.3345,Fully Operational,Operational
+FAC-0078,Yu Inc Airport,Iran,Airport,Medium,38.5061,46.0539,Fully Operational,Operational
+FAC-0079,Jones Inc Port Cargo Terminal,Oman,Port Cargo Terminal,High,23.5356,52.5928,Fully Operational,Operational
+FAC-0080,"Hensley, Powell and David Airport",Kuwait,Airport,High,29.4607,46.73,Fully Operational,Offline
+FAC-0081,"Sanchez, Wheeler and Harvey Port Cargo Terminal",Saudi Arabia,Port Cargo Terminal,High,24.0954,41.1659,Fully Operational,Destroyed
+FAC-0082,Sandoval-Cunningham Power Plant,Oman,Power Plant,High,24.6385,57.517,Maintenance,Operational
+FAC-0083,Donovan-Harris Airport,Saudi Arabia,Airport,High,24.6108,44.1534,Fully Operational,Damaged
+FAC-0084,"Edwards, Baker and Anderson Airport",Iraq,Airport,Medium,29.7193,47.3518,Fully Operational,Operational
+FAC-0085,"Evans, Stewart and Walton Oil Refinery",Saudi Arabia,Oil Refinery,High,29.6152,37.8186,Fully Operational,Operational
+FAC-0086,Smith PLC Water Desalination,Iraq,Water Desalination,Low,31.293,38.8985,Fully Operational,Offline
+FAC-0087,"Ferrell, Jones and Lewis Water Desalination",Saudi Arabia,Water Desalination,High,27.0497,47.564,Fully Operational,Damaged
+FAC-0088,Anderson-Bailey Water Desalination,Iran,Water Desalination,Medium,29.2869,55.0496,Fully Operational,Damaged
+FAC-0089,Suarez LLC Port Cargo Terminal,Qatar,Port Cargo Terminal,Low,25.6949,50.9438,Fully Operational,Operational
+FAC-0090,Moore-Bass Power Plant,Iran,Power Plant,Medium,35.6707,47.5178,Fully Operational,Operational
+FAC-0091,"Turner, Riggs and Roman Power Plant",Oman,Power Plant,Medium,19.3451,52.7841,Fully Operational,Operational
+FAC-0092,"Smith, Montoya and Evans Power Plant",Iran,Power Plant,High,28.8404,62.5116,Fully Operational,Damaged
+FAC-0093,"Garcia, Humphrey and Baker Power Plant",Iraq,Power Plant,Medium,36.2436,44.3684,Fully Operational,Operational
+FAC-0094,Newton and Sons Military Base,Iran,Military Base,Low,31.6882,59.6202,Fully Operational,Damaged
+FAC-0095,Campbell-Clark Oil Refinery,Iran,Oil Refinery,Low,32.8798,49.7729,Fully Operational,Offline
+FAC-0096,Harris-Walters Water Desalination,United Arab Emirates,Water Desalination,Medium,23.2899,54.1129,Fully Operational,Damaged
+FAC-0097,Wagner-King Port Cargo Terminal,Bahrain,Port Cargo Terminal,Critical,25.9968,50.6048,Fully Operational,Destroyed
+FAC-0098,Davis Group Water Desalination,Iran,Water Desalination,Low,27.1988,47.3025,Fully Operational,Operational
+FAC-0099,Williams-Cook Oil Refinery,United Arab Emirates,Oil Refinery,Medium,23.3102,55.0348,Fully Operational,Destroyed
+FAC-0100,Walsh LLC Water Desalination,Iraq,Water Desalination,Medium,34.188,45.2135,Fully Operational,Offline
+FAC-0101,Figueroa PLC Military Base,United Arab Emirates,Military Base,Medium,25.3932,51.857,Fully Operational,Operational
+FAC-0102,"Patterson, Smith and Jones Oil Refinery",United Arab Emirates,Oil Refinery,Critical,22.9352,54.9434,Fully Operational,Destroyed
+FAC-0103,"Mckee, Gardner and Davenport Oil Refinery",Saudi Arabia,Oil Refinery,Medium,16.6378,43.0726,Fully Operational,Operational
+FAC-0104,"Tran, Jordan and Williams Airport",Oman,Airport,High,22.1794,59.4161,Fully Operational,Offline
+FAC-0105,Nolan-Flynn Water Desalination,Iran,Water Desalination,Low,31.587,56.3787,Fully Operational,Offline
+FAC-0106,Nolan and Sons Power Plant,United Arab Emirates,Power Plant,High,22.8193,53.2398,Fully Operational,Operational
+FAC-0107,"Wright, Garcia and Deleon Water Desalination",Saudi Arabia,Water Desalination,Medium,20.6115,53.8491,Fully Operational,Destroyed
+FAC-0108,Dickson-Brady Port Cargo Terminal,Saudi Arabia,Port Cargo Terminal,Critical,31.523,42.4877,Fully Operational,Damaged
+FAC-0109,Hancock and Sons Port Cargo Terminal,United Arab Emirates,Port Cargo Terminal,High,23.1565,53.3089,Fully Operational,Destroyed
+FAC-0110,Johnson-Doyle Power Plant,Iran,Power Plant,Low,37.9874,52.3242,Maintenance,Destroyed
+FAC-0111,Patton-Jenkins Oil Refinery,United Arab Emirates,Oil Refinery,Low,23.0543,54.2542,Maintenance,Damaged
+FAC-0112,"Shields, Cochran and Adams Power Plant",Iraq,Power Plant,High,29.975,46.8718,Fully Operational,Operational
+FAC-0113,"Rodriguez, Brennan and Garrison Airport",Saudi Arabia,Airport,Medium,31.6839,39.1183,Maintenance,Damaged
+FAC-0114,Gonzalez Group Airport,United Arab Emirates,Airport,Medium,25.5241,52.8812,Maintenance,Destroyed
+FAC-0115,Torres-Pope Airport,United Arab Emirates,Airport,Critical,23.4899,52.9928,Fully Operational,Damaged
+FAC-0116,Walker Ltd Power Plant,Iran,Power Plant,Medium,29.8317,54.4864,Fully Operational,Damaged
+FAC-0117,Ross LLC Water Desalination,Iran,Water Desalination,Low,33.0052,48.4377,Fully Operational,Destroyed
+FAC-0118,Rasmussen LLC Airport,Qatar,Airport,Critical,25.1563,51.2973,Fully Operational,Destroyed
+FAC-0119,May-Ross Power Plant,Iran,Power Plant,Medium,33.2625,60.5243,Fully Operational,Offline
+FAC-0120,"Rivera, Johnson and Wiley Water Desalination",Saudi Arabia,Water Desalination,Medium,22.5597,47.7504,Maintenance,Operational
+FAC-0121,White-Estes Water Desalination,Saudi Arabia,Water Desalination,High,26.3974,51.8871,Fully Operational,Destroyed
+FAC-0122,Johnson-Carlson Water Desalination,Saudi Arabia,Water Desalination,Low,28.1504,52.32,Fully Operational,Operational
+FAC-0123,Chandler-Edwards Communication Hub,Iraq,Communication Hub,High,35.1982,43.0095,Fully Operational,Operational
+FAC-0124,"Joyce, Wilson and Lam Water Desalination",Saudi Arabia,Water Desalination,Medium,30.4548,34.9658,Fully Operational,Destroyed
+FAC-0125,Scott Ltd Power Plant,Iran,Power Plant,Low,32.923,59.0579,Fully Operational,Operational
+FAC-0126,Smith-Frost Oil Refinery,United Arab Emirates,Oil Refinery,Medium,25.6949,52.2156,Fully Operational,Damaged
+FAC-0127,"Mcdaniel, Bentley and Mclaughlin Airport",Iran,Airport,Medium,37.6169,56.8746,Fully Operational,Operational
+FAC-0128,Diaz Inc Power Plant,United Arab Emirates,Power Plant,Low,23.9851,52.7505,Fully Operational,Destroyed
+FAC-0129,"Mccall, Hanson and Alvarado Oil Refinery",Saudi Arabia,Oil Refinery,Medium,25.1508,46.0711,Maintenance,Offline
+FAC-0130,Cortez LLC Oil Refinery,Qatar,Oil Refinery,Low,25.4621,51.3172,Fully Operational,Damaged
+FAC-0131,"Parker, Ortiz and Powell Military Base",Saudi Arabia,Military Base,Medium,20.5791,50.7761,Fully Operational,Damaged
+FAC-0132,Spencer-Lee Water Desalination,United Arab Emirates,Water Desalination,High,25.0232,54.7959,Maintenance,Destroyed
+FAC-0133,"Bentley, Byrd and Orr Port Cargo Terminal",United Arab Emirates,Port Cargo Terminal,Low,24.0429,54.3979,Fully Operational,Destroyed
+FAC-0134,"Carroll, Sullivan and Bass Oil Refinery",Qatar,Oil Refinery,Medium,24.7247,51.1855,Maintenance,Offline
+FAC-0135,Mitchell-Jordan Oil Refinery,Kuwait,Oil Refinery,High,29.8195,47.4155,Fully Operational,Destroyed
+FAC-0136,"Lawson, Morris and Ramos Communication Hub",Iran,Communication Hub,High,26.9706,62.3635,Maintenance,Offline
+FAC-0137,"Lewis, Kennedy and Santana Airport",Oman,Airport,Medium,20.148,58.1673,Fully Operational,Operational
+FAC-0138,"Jackson, Miller and Robertson Water Desalination",Qatar,Water Desalination,Low,25.4938,51.4402,Fully Operational,Offline
+FAC-0139,"Harvey, Davis and Crane Airport",Iran,Airport,Low,32.8597,61.3899,Fully Operational,Operational
+FAC-0140,Chambers and Sons Port Cargo Terminal,Iraq,Port Cargo Terminal,Medium,32.3889,40.1558,Fully Operational,Offline
+FAC-0141,Hernandez Inc Airport,Iran,Airport,High,26.8993,52.6192,Maintenance,Destroyed
+FAC-0142,Riggs PLC Water Desalination,Saudi Arabia,Water Desalination,Medium,18.4724,42.7126,Fully Operational,Operational
+FAC-0143,Gibson Ltd Oil Refinery,Oman,Oil Refinery,High,20.1941,55.4584,Fully Operational,Offline
+FAC-0144,"Lee, Horton and Snyder Power Plant",Qatar,Power Plant,Low,26.1623,51.0228,Fully Operational,Operational
+FAC-0145,Hernandez Ltd Power Plant,Kuwait,Power Plant,Low,29.5604,47.7192,Fully Operational,Damaged
+FAC-0146,Stafford Inc Oil Refinery,Iran,Oil Refinery,Medium,32.9041,45.3036,Fully Operational,Destroyed
+FAC-0147,Robinson-Brock Port Cargo Terminal,Iraq,Port Cargo Terminal,High,30.2247,47.5352,Fully Operational,Operational
+FAC-0148,"Holmes, Williams and Wright Oil Refinery",Iran,Oil Refinery,Low,27.443,56.5601,Fully Operational,Operational
+FAC-0149,Bryant Group Port Cargo Terminal,Iran,Port Cargo Terminal,Medium,27.4394,44.9956,Fully Operational,Destroyed
+FAC-0150,"Schmidt, Hansen and Stewart Water Desalination",Saudi Arabia,Water Desalination,Critical,24.2118,36.2901,Fully Operational,Damaged
+FAC-0151,Salazar-Ball Airport,Kuwait,Airport,Low,29.3343,47.3703,Fully Operational,Offline
+FAC-0152,"Simmons, Meadows and Griffin Water Desalination",Saudi Arabia,Water Desalination,Low,23.8443,53.1037,Fully Operational,Operational
+FAC-0153,Manning Group Oil Refinery,Iran,Oil Refinery,Critical,33.8631,54.4188,Fully Operational,Damaged
+FAC-0154,Green-Wright Power Plant,Saudi Arabia,Power Plant,High,17.5869,48.7374,Fully Operational,Destroyed
+FAC-0155,"Ramirez, Strickland and Washington Oil Refinery",Qatar,Oil Refinery,Medium,25.2676,50.9056,Fully Operational,Operational
+FAC-0156,Hill Inc Port Cargo Terminal,Iran,Port Cargo Terminal,Critical,34.3115,51.1117,Fully Operational,Operational
+FAC-0157,"Mitchell, Nelson and Flores Oil Refinery",Kuwait,Oil Refinery,Medium,28.6545,47.9037,Fully Operational,Destroyed
+FAC-0158,"Miller, Hernandez and Reyes Port Cargo Terminal",United Arab Emirates,Port Cargo Terminal,High,22.9278,53.268,Fully Operational,Destroyed
+FAC-0159,Mccarthy Inc Communication Hub,Qatar,Communication Hub,Medium,25.5207,51.0165,Fully Operational,Operational
+FAC-0160,Russell-Daniels Oil Refinery,Iran,Oil Refinery,Medium,36.8352,50.9837,Fully Operational,Destroyed
+FAC-0161,Brown-Wall Communication Hub,Kuwait,Communication Hub,Low,29.8095,47.6658,Maintenance,Damaged
+FAC-0162,Stein-Silva Oil Refinery,Kuwait,Oil Refinery,Medium,28.7887,47.8351,Fully Operational,Operational
+FAC-0163,"Smith, Gilmore and Johnston Power Plant",Iraq,Power Plant,Low,32.3265,40.1762,Fully Operational,Damaged
+FAC-0164,Smith-Bell Port Cargo Terminal,Iran,Port Cargo Terminal,High,29.7725,51.031,Fully Operational,Destroyed
+FAC-0165,Castaneda-Ashley Oil Refinery,Iran,Oil Refinery,Medium,27.2037,55.7389,Fully Operational,Destroyed
+FAC-0166,Medina-Navarro Port Cargo Terminal,Saudi Arabia,Port Cargo Terminal,Medium,20.3707,49.8538,Fully Operational,Operational
+FAC-0167,"Hurst, Freeman and Nelson Power Plant",Qatar,Power Plant,Medium,25.6341,50.7409,Fully Operational,Operational
+FAC-0168,Johnson-Rogers Oil Refinery,Saudi Arabia,Oil Refinery,Low,18.1958,39.3659,Fully Operational,Operational
+FAC-0169,"Yates, Ramsey and Pittman Port Cargo Terminal",Iran,Port Cargo Terminal,High,34.8514,53.505,Fully Operational,Destroyed
+FAC-0170,Hooper PLC Oil Refinery,Iraq,Oil Refinery,Medium,29.1556,47.7353,Fully Operational,Destroyed
+FAC-0171,Meadows PLC Port Cargo Terminal,Qatar,Port Cargo Terminal,High,24.6958,50.7188,Fully Operational,Operational
+FAC-0172,"Alvarado, Miller and Patterson Military Base",Kuwait,Military Base,Medium,28.641,48.1045,Fully Operational,Operational
+FAC-0173,White-Green Port Cargo Terminal,Saudi Arabia,Port Cargo Terminal,Medium,21.4322,40.9944,Fully Operational,Operational
+FAC-0174,Lewis-Murphy Military Base,United Arab Emirates,Military Base,High,23.7228,55.1369,Fully Operational,Destroyed
+FAC-0175,Ramirez-Bean Oil Refinery,Iran,Oil Refinery,Low,33.4336,58.4441,Fully Operational,Destroyed
+FAC-0176,King-Miller Water Desalination,Saudi Arabia,Water Desalination,Medium,28.158,43.427,Fully Operational,Offline
+FAC-0177,Curry Inc Airport,United Arab Emirates,Airport,Medium,24.6953,52.2548,Fully Operational,Operational
+FAC-0178,Walker-Jones Oil Refinery,Saudi Arabia,Oil Refinery,Low,24.1174,40.5186,Fully Operational,Damaged
+FAC-0179,"Williams, Johnson and Wright Airport",Iran,Airport,Medium,36.9741,55.6852,Fully Operational,Damaged
+FAC-0180,Howell and Sons Airport,Kuwait,Airport,Medium,29.2196,48.0387,Fully Operational,Damaged
+FAC-0181,Wells Inc Oil Refinery,Iran,Oil Refinery,High,26.449,61.0834,Fully Operational,Damaged
+FAC-0182,"Gould, Marshall and Scott Oil Refinery",Iran,Oil Refinery,Low,31.1286,52.349,Fully Operational,Damaged
+FAC-0183,Jackson-Lawson Port Cargo Terminal,Saudi Arabia,Port Cargo Terminal,High,21.4139,46.5556,Fully Operational,Destroyed
+FAC-0184,"Higgins, Strickland and Martin Water Desalination",Iran,Water Desalination,Critical,28.9781,57.7509,Fully Operational,Destroyed
+FAC-0185,Rodriguez-Johnson Power Plant,Saudi Arabia,Power Plant,High,18.2629,41.3462,Fully Operational,Offline
+FAC-0186,Johnston-Odonnell Military Base,United Arab Emirates,Military Base,High,23.5835,53.3834,Fully Operational,Destroyed
+FAC-0187,Sanders-Espinoza Water Desalination,Kuwait,Water Desalination,Medium,29.5967,47.5001,Fully Operational,Damaged
+FAC-0188,Vargas Ltd Oil Refinery,Saudi Arabia,Oil Refinery,Medium,19.4271,53.901,Fully Operational,Damaged
+FAC-0189,Garcia LLC Airport,Iran,Airport,High,26.416,58.6466,Fully Operational,Destroyed
+FAC-0190,"Burke, Martinez and Riggs Water Desalination",Saudi Arabia,Water Desalination,High,18.0968,41.9111,Fully Operational,Operational
+FAC-0191,Reed Group Oil Refinery,Kuwait,Oil Refinery,Medium,29.2003,47.2806,Fully Operational,Damaged
+FAC-0192,"Wood, Hunter and Peterson Water Desalination",Saudi Arabia,Water Desalination,High,23.1828,45.2142,Fully Operational,Operational
+FAC-0193,Short-Garcia Port Cargo Terminal,Kuwait,Port Cargo Terminal,Medium,30.0154,48.3704,Fully Operational,Damaged
+FAC-0194,Reid-Poole Communication Hub,United Arab Emirates,Communication Hub,Medium,25.3591,55.5063,Fully Operational,Operational
+FAC-0195,"Hernandez, Thompson and Boyd Power Plant",Iraq,Power Plant,Medium,29.8515,47.0052,Fully Operational,Destroyed
+FAC-0196,"Nelson, Morton and Medina Military Base",Saudi Arabia,Military Base,Medium,18.3576,43.1869,Fully Operational,Offline
+FAC-0197,Marshall-Petersen Oil Refinery,Saudi Arabia,Oil Refinery,Critical,16.8521,44.5421,Fully Operational,Operational
+FAC-0198,"Adams, Christian and Rivas Military Base",Iran,Military Base,Low,36.7485,56.3493,Fully Operational,Destroyed
+FAC-0199,Ramirez Group Water Desalination,Kuwait,Water Desalination,Low,28.7221,47.8405,Fully Operational,Operational
+FAC-0200,Christensen PLC Airport,Saudi Arabia,Airport,Low,24.7809,49.2719,Fully Operational,Damaged
+FAC-0201,"Barnett, Rogers and Snyder Oil Refinery",Saudi Arabia,Oil Refinery,Low,22.7172,50.6719,Maintenance,Damaged
+FAC-0202,White-Lewis Oil Refinery,United Arab Emirates,Oil Refinery,Medium,24.3038,52.7097,Fully Operational,Operational
+FAC-0203,Peterson-Beard Port Cargo Terminal,Iran,Port Cargo Terminal,Low,34.3012,45.6267,Fully Operational,Offline
+FAC-0204,"Beard, Peters and Black Communication Hub",United Arab Emirates,Communication Hub,High,24.4395,53.4523,Maintenance,Damaged
+FAC-0205,Miller Ltd Oil Refinery,Saudi Arabia,Oil Refinery,High,28.6163,41.2409,Fully Operational,Destroyed
+FAC-0206,Freeman-Chang Port Cargo Terminal,Qatar,Port Cargo Terminal,Low,24.5754,51.1914,Fully Operational,Destroyed
+FAC-0207,"Alvarez, Joseph and West Water Desalination",Saudi Arabia,Water Desalination,High,26.1078,51.0415,Fully Operational,Operational
+FAC-0208,Davis and Sons Oil Refinery,Saudi Arabia,Oil Refinery,Medium,19.1915,34.88,Maintenance,Offline
+FAC-0209,Holt-Torres Oil Refinery,United Arab Emirates,Oil Refinery,High,25.1365,52.4555,Fully Operational,Damaged
+FAC-0210,"Wood, Tran and Cooper Oil Refinery",Saudi Arabia,Oil Refinery,High,21.8883,52.6792,Fully Operational,Destroyed
+FAC-0211,"Pierce, Bell and Chavez Power Plant",Oman,Power Plant,High,21.426,59.2096,Fully Operational,Operational
+FAC-0212,King-Martinez Power Plant,Iran,Power Plant,Low,36.5128,54.364,Fully Operational,Damaged
+FAC-0213,Stewart Ltd Power Plant,Saudi Arabia,Power Plant,Low,22.8179,48.4851,Fully Operational,Damaged
+FAC-0214,"Tapia, Vaughn and Lee Communication Hub",Saudi Arabia,Communication Hub,Low,20.3929,54.5806,Fully Operational,Offline
+FAC-0215,"Washington, Hardy and Bray Airport",Saudi Arabia,Airport,High,26.8706,54.0086,Fully Operational,Operational
+FAC-0216,"Carlson, Hooper and Wall Oil Refinery",Iran,Oil Refinery,Medium,35.8992,50.9602,Fully Operational,Damaged
+FAC-0217,Perez-White Military Base,Qatar,Military Base,Medium,25.1324,51.3868,Fully Operational,Operational
+FAC-0218,Erickson and Sons Oil Refinery,United Arab Emirates,Oil Refinery,Medium,22.8971,55.1784,Fully Operational,Damaged
+FAC-0219,Williams-Brown Oil Refinery,Saudi Arabia,Oil Refinery,Critical,23.1404,54.9237,Fully Operational,Operational
+FAC-0220,Terry-Martinez Airport,Iran,Airport,Low,31.3286,61.0749,Fully Operational,Damaged
+FAC-0221,Garcia-Smith Port Cargo Terminal,Kuwait,Port Cargo Terminal,High,29.0559,46.6234,Fully Operational,Damaged
+FAC-0222,Harrison-Alexander Military Base,Qatar,Military Base,Low,25.5841,51.4143,Fully Operational,Operational
+FAC-0223,Sheppard LLC Water Desalination,Iran,Water Desalination,High,25.368,54.5264,Fully Operational,Damaged
+FAC-0224,Wilson-Jones Oil Refinery,United Arab Emirates,Oil Refinery,Medium,23.5825,56.498,Fully Operational,Destroyed
+FAC-0225,Jones-Soto Oil Refinery,Kuwait,Oil Refinery,High,30.0558,47.7204,Fully Operational,Operational
+FAC-0226,Hernandez PLC Water Desalination,Iraq,Water Desalination,Medium,34.3103,40.565,Maintenance,Offline
+FAC-0227,Miller-Wright Oil Refinery,Iran,Oil Refinery,High,27.1422,47.1285,Fully Operational,Damaged
+FAC-0228,"Duran, Obrien and Gibbs Airport",Iraq,Airport,Medium,36.0212,41.2309,Fully Operational,Damaged
+FAC-0229,Rowe Group Power Plant,Saudi Arabia,Power Plant,Low,24.0412,37.5414,Fully Operational,Offline
+FAC-0230,Kerr-Evans Power Plant,Qatar,Power Plant,Low,25.9323,51.2073,Fully Operational,Destroyed
+FAC-0231,"Branch, Torres and Oliver Power Plant",United Arab Emirates,Power Plant,High,24.779,55.3348,Fully Operational,Damaged
+FAC-0232,"Choi, Garcia and Farmer Oil Refinery",United Arab Emirates,Oil Refinery,High,25.8483,53.9147,Fully Operational,Destroyed
+FAC-0233,"Clark, Guerrero and Moore Oil Refinery",Iran,Oil Refinery,High,31.1545,53.2008,Fully Operational,Operational
+FAC-0234,Arnold and Sons Water Desalination,Qatar,Water Desalination,Medium,25.9633,51.5778,Fully Operational,Operational
+FAC-0235,Ortiz Ltd Power Plant,Saudi Arabia,Power Plant,Medium,20.2795,39.2063,Fully Operational,Operational
+FAC-0236,"Harrison, Johnson and Roberts Oil Refinery",United Arab Emirates,Oil Refinery,Medium,25.5286,52.2985,Fully Operational,Operational
+FAC-0237,Warner-Gibson Power Plant,Kuwait,Power Plant,Low,29.3236,47.4476,Maintenance,Operational
+FAC-0238,"Hall, Baker and Moody Communication Hub",United Arab Emirates,Communication Hub,Medium,23.253,53.2645,Fully Operational,Operational
+FAC-0239,"Guerrero, Peck and Coleman Power Plant",Qatar,Power Plant,High,25.4124,51.4625,Fully Operational,Operational
+FAC-0240,"Walker, Hernandez and Baker Port Cargo Terminal",Kuwait,Port Cargo Terminal,Medium,29.1409,47.5835,Fully Operational,Operational
+FAC-0241,Jones and Sons Water Desalination,United Arab Emirates,Water Desalination,Low,23.479,56.4455,Maintenance,Destroyed
+FAC-0242,Larson-Holloway Water Desalination,Saudi Arabia,Water Desalination,Low,21.4254,53.7179,Fully Operational,Destroyed
+FAC-0243,Gonzales-Harrison Oil Refinery,United Arab Emirates,Oil Refinery,Medium,22.9796,53.1652,Fully Operational,Damaged
+FAC-0244,Lyons-Bender Port Cargo Terminal,United Arab Emirates,Port Cargo Terminal,High,24.6457,52.3125,Fully Operational,Offline
+FAC-0245,"Fernandez, Kim and George Airport",Saudi Arabia,Airport,High,24.5174,48.8835,Fully Operational,Operational
+FAC-0246,Navarro-Munoz Communication Hub,Qatar,Communication Hub,High,25.4923,51.4171,Fully Operational,Damaged
+FAC-0247,Davis Ltd Communication Hub,Saudi Arabia,Communication Hub,High,28.5265,50.2994,Fully Operational,Damaged
+FAC-0248,"Matthews, Smith and Hubbard Power Plant",Iran,Power Plant,High,33.6763,59.9822,Fully Operational,Operational
+FAC-0249,Johnston-Hines Oil Refinery,Iraq,Oil Refinery,High,29.1572,41.8428,Fully Operational,Operational
+FAC-0250,Ruiz Ltd Military Base,Kuwait,Military Base,Low,29.8965,47.8981,Fully Operational,Operational
+FAC-0251,Moon-White Water Desalination,Saudi Arabia,Water Desalination,Critical,24.4076,40.5888,Fully Operational,Operational
+FAC-0252,"Graham, Olsen and Costa Water Desalination",Saudi Arabia,Water Desalination,High,27.5348,47.5095,Fully Operational,Destroyed
+FAC-0253,Bailey-Cook Power Plant,Iran,Power Plant,Medium,28.1481,62.4853,Fully Operational,Damaged
+FAC-0254,"Garcia, Martin and Jenkins Port Cargo Terminal",Qatar,Port Cargo Terminal,Medium,25.093,51.5403,Fully Operational,Damaged
+FAC-0255,Roberts-Landry Port Cargo Terminal,Qatar,Port Cargo Terminal,High,26.1663,51.4365,Fully Operational,Offline
+FAC-0256,"Johnson, Miller and King Water Desalination",Saudi Arabia,Water Desalination,Medium,21.5418,43.2899,Fully Operational,Operational
+FAC-0257,Cordova Group Military Base,United Arab Emirates,Military Base,Medium,24.9366,52.1864,Fully Operational,Damaged
+FAC-0258,"Bryan, Smith and Booth Power Plant",Qatar,Power Plant,High,25.5845,50.7472,Fully Operational,Operational
+FAC-0259,Gutierrez-Lopez Oil Refinery,Kuwait,Oil Refinery,Critical,29.3806,48.2653,Fully Operational,Operational
+FAC-0260,Dean-Jimenez Oil Refinery,Saudi Arabia,Oil Refinery,Critical,31.4226,40.7445,Fully Operational,Destroyed
+FAC-0261,Wolf-Harris Power Plant,United Arab Emirates,Power Plant,Low,25.0309,56.1833,Fully Operational,Offline
+FAC-0262,"Anderson, Roberts and Gilmore Military Base",Iran,Military Base,Critical,38.9604,51.5429,Maintenance,Damaged
+FAC-0263,Martinez-Dudley Airport,Iraq,Airport,Critical,29.0769,44.3092,Fully Operational,Operational
+FAC-0264,"Lloyd, Mckinney and Collins Power Plant",Bahrain,Power Plant,Medium,25.8951,50.7693,Fully Operational,Destroyed
+FAC-0265,Tran Inc Oil Refinery,Iran,Oil Refinery,High,31.4248,48.888,Fully Operational,Operational
+FAC-0266,Gay Inc Water Desalination,United Arab Emirates,Water Desalination,High,23.1142,55.7807,Fully Operational,Offline
+FAC-0267,Valentine-Holland Water Desalination,Iran,Water Desalination,Medium,27.5869,46.6716,Fully Operational,Damaged
+FAC-0268,Jimenez Ltd Water Desalination,Iran,Water Desalination,Low,38.3565,49.737,Fully Operational,Destroyed
+FAC-0269,Hicks-Hill Oil Refinery,Qatar,Oil Refinery,Medium,24.701,50.9761,Fully Operational,Operational
+FAC-0270,Baird-Sanchez Port Cargo Terminal,Qatar,Port Cargo Terminal,High,24.6996,51.5245,Fully Operational,Operational
+FAC-0271,"Thomas, Lee and Greene Oil Refinery",Iran,Oil Refinery,Medium,35.4683,55.509,Fully Operational,Damaged
+FAC-0272,"Suarez, Shields and Hill Water Desalination",United Arab Emirates,Water Desalination,High,23.2644,52.7373,Fully Operational,Destroyed
+FAC-0273,Morgan-French Water Desalination,Saudi Arabia,Water Desalination,Medium,17.2496,45.8475,Fully Operational,Operational
+FAC-0274,Hoover-Campbell Oil Refinery,United Arab Emirates,Oil Refinery,Medium,23.6484,54.1017,Fully Operational,Operational
+FAC-0275,Monroe-Carpenter Power Plant,Iran,Power Plant,Medium,36.3217,52.6152,Fully Operational,Damaged
+FAC-0276,"Burns, Hernandez and Ryan Airport",Saudi Arabia,Airport,High,27.5725,42.3149,Fully Operational,Destroyed
+FAC-0277,Cook-Hines Port Cargo Terminal,Iran,Port Cargo Terminal,Low,25.8926,62.8883,Maintenance,Offline
+FAC-0278,Gibson-Morris Port Cargo Terminal,Iran,Port Cargo Terminal,High,35.7656,58.5507,Fully Operational,Offline
+FAC-0279,Pollard and Sons Port Cargo Terminal,Bahrain,Port Cargo Terminal,High,26.1957,50.7534,Fully Operational,Operational
+FAC-0280,"Reyes, Chase and Jenkins Water Desalination",United Arab Emirates,Water Desalination,Medium,23.7172,52.3924,Fully Operational,Damaged
+FAC-0281,Garner-Thornton Oil Refinery,Iran,Oil Refinery,Medium,25.3183,49.6689,Fully Operational,Destroyed
+FAC-0282,Hughes-Alvarado Oil Refinery,Kuwait,Oil Refinery,High,29.0539,47.0237,Fully Operational,Offline
+FAC-0283,"Pollard, Simpson and Johnson Port Cargo Terminal",Kuwait,Port Cargo Terminal,Medium,29.7257,48.1791,Fully Operational,Operational
+FAC-0284,"Sanford, Rivera and Garcia Power Plant",Iran,Power Plant,Medium,34.846,44.9249,Fully Operational,Destroyed
+FAC-0285,Garcia-Lozano Airport,Iran,Airport,High,25.7902,53.574,Fully Operational,Damaged
+FAC-0286,Bowen Group Power Plant,Saudi Arabia,Power Plant,Low,26.7605,40.734,Fully Operational,Operational
+FAC-0287,"Booker, Jones and Harrington Port Cargo Terminal",Iran,Port Cargo Terminal,Critical,25.8534,62.0219,Fully Operational,Offline
+FAC-0288,Morgan-Schwartz Power Plant,Saudi Arabia,Power Plant,High,31.5566,53.7733,Fully Operational,Destroyed
+FAC-0289,"Miller, Murphy and Craig Oil Refinery",Saudi Arabia,Oil Refinery,High,22.0234,49.8427,Fully Operational,Damaged
+FAC-0290,"James, Stewart and Higgins Airport",Qatar,Airport,Medium,26.0551,51.2061,Fully Operational,Offline
+FAC-0291,Brennan-Johnson Oil Refinery,Iran,Oil Refinery,Low,34.0539,61.5223,Fully Operational,Destroyed
+FAC-0292,Young Ltd Oil Refinery,Iran,Oil Refinery,Low,34.4314,55.4555,Fully Operational,Offline
+FAC-0293,Bright-Francis Power Plant,Qatar,Power Plant,Critical,25.315,51.4825,Fully Operational,Operational
+FAC-0294,Good-Hodges Communication Hub,Iraq,Communication Hub,Medium,29.9737,48.4958,Fully Operational,Operational
+FAC-0295,"Brennan, Wallace and Benson Military Base",Iran,Military Base,Medium,32.7291,58.7348,Fully Operational,Damaged
+FAC-0296,Williams Inc Power Plant,Saudi Arabia,Power Plant,Medium,23.9564,36.0708,Fully Operational,Offline
+FAC-0297,Howard-Jordan Port Cargo Terminal,Iraq,Port Cargo Terminal,Low,32.4356,44.2565,Fully Operational,Operational
+FAC-0298,Schmidt PLC Power Plant,Iraq,Power Plant,Medium,32.4659,40.2784,Fully Operational,Operational
+FAC-0299,"Sparks, Jackson and Miller Water Desalination",Saudi Arabia,Water Desalination,Critical,26.9575,39.4039,Fully Operational,Destroyed
+FAC-0300,Harvey-Allen Oil Refinery,Saudi Arabia,Oil Refinery,Medium,28.7196,37.5546,Maintenance,Destroyed
+FAC-0301,"Thomas, Murray and King Power Plant",United Arab Emirates,Power Plant,Critical,22.7056,51.6691,Fully Operational,Destroyed
+FAC-0302,Estrada-Nolan Port Cargo Terminal,Kuwait,Port Cargo Terminal,Low,29.8481,46.9397,Fully Operational,Destroyed
+FAC-0303,Santana-Byrd Power Plant,Saudi Arabia,Power Plant,Medium,26.6681,46.9469,Fully Operational,Damaged
+FAC-0304,Jones LLC Oil Refinery,United Arab Emirates,Oil Refinery,Low,24.353,52.8737,Fully Operational,Offline
+FAC-0305,"Evans, Hayden and Vaughn Airport",Qatar,Airport,Low,26.0466,50.7963,Fully Operational,Operational
+FAC-0306,Bruce-Gonzalez Airport,United Arab Emirates,Airport,Medium,23.4356,53.4845,Fully Operational,Damaged
+FAC-0307,Castaneda-Rodriguez Oil Refinery,Bahrain,Oil Refinery,High,26.0472,50.7239,Fully Operational,Damaged
+FAC-0308,Armstrong-Andrews Port Cargo Terminal,Iran,Port Cargo Terminal,Low,32.7378,45.0662,Fully Operational,Operational
+FAC-0309,"Phillips, Spence and Barrett Water Desalination",Saudi Arabia,Water Desalination,Medium,25.0537,52.0172,Fully Operational,Operational
+FAC-0310,Smith-Grimes Airport,Iran,Airport,Low,37.4258,53.0345,Maintenance,Operational
+FAC-0311,"Beltran, Lozano and Mcgee Power Plant",Iraq,Power Plant,Critical,29.2731,47.809,Fully Operational,Operational
+FAC-0312,Parsons-Hall Water Desalination,Kuwait,Water Desalination,Medium,29.1373,46.6462,Fully Operational,Operational
+FAC-0313,Robinson-Lee Airport,Saudi Arabia,Airport,Critical,21.3077,49.8678,Fully Operational,Operational
+FAC-0314,Byrd-Le Communication Hub,United Arab Emirates,Communication Hub,Medium,22.6879,53.6854,Fully Operational,Destroyed
+FAC-0315,"Becker, Taylor and Davis Port Cargo Terminal",Oman,Port Cargo Terminal,Critical,24.1035,52.2311,Fully Operational,Operational
+FAC-0316,"Lucas, Parker and Alexander Military Base",Saudi Arabia,Military Base,Low,22.9096,48.2736,Fully Operational,Destroyed
+FAC-0317,"Diaz, Anderson and Browning Water Desalination",Kuwait,Water Desalination,High,28.6313,46.793,Fully Operational,Destroyed
+FAC-0318,Burgess-Thompson Oil Refinery,Saudi Arabia,Oil Refinery,Medium,16.0831,40.4736,Fully Operational,Damaged
+FAC-0319,Buchanan LLC Port Cargo Terminal,Iran,Port Cargo Terminal,Medium,32.7664,51.7528,Fully Operational,Operational
+FAC-0320,"Shaw, Nelson and Martin Port Cargo Terminal",United Arab Emirates,Port Cargo Terminal,Low,23.8483,52.9592,Maintenance,Damaged
+FAC-0321,Coffey-Phillips Communication Hub,Iraq,Communication Hub,Low,33.7473,40.445,Fully Operational,Operational
+FAC-0322,Brock-Mcdonald Oil Refinery,Saudi Arabia,Oil Refinery,Low,22.9548,42.8431,Fully Operational,Damaged
+FAC-0323,Taylor and Sons Power Plant,Iran,Power Plant,Medium,33.3133,47.7154,Maintenance,Operational
+FAC-0324,"Ramsey, Whitney and Coffey Power Plant",Saudi Arabia,Power Plant,High,28.8652,40.9204,Fully Operational,Operational
+FAC-0325,"Diaz, Gibbs and Smith Oil Refinery",Oman,Oil Refinery,Medium,19.7105,59.3888,Maintenance,Operational
+FAC-0326,"Martinez, Richardson and Curry Oil Refinery",Oman,Oil Refinery,Medium,23.3411,55.8299,Fully Operational,Operational
+FAC-0327,Richards-Carson Port Cargo Terminal,Kuwait,Port Cargo Terminal,Medium,28.6822,47.5713,Fully Operational,Damaged
+FAC-0328,Rodriguez-Hall Communication Hub,United Arab Emirates,Communication Hub,Medium,24.1157,55.0418,Fully Operational,Damaged
+FAC-0329,Harvey PLC Water Desalination,Kuwait,Water Desalination,Medium,29.1546,47.4487,Fully Operational,Damaged
+FAC-0330,Herman-Walker Water Desalination,Qatar,Water Desalination,Medium,24.6257,51.5916,Fully Operational,Operational
+FAC-0331,Reid Group Water Desalination,Iraq,Water Desalination,High,33.5123,46.47,Fully Operational,Operational
+FAC-0332,"Turner, Ortiz and Taylor Oil Refinery",United Arab Emirates,Oil Refinery,High,25.1913,54.788,Fully Operational,Damaged
+FAC-0333,Torres Group Water Desalination,Bahrain,Water Desalination,Medium,25.8197,50.6763,Fully Operational,Offline
+FAC-0334,Davis PLC Power Plant,Saudi Arabia,Power Plant,Medium,24.3008,46.1909,Fully Operational,Damaged
+FAC-0335,Price LLC Power Plant,Kuwait,Power Plant,Low,29.3007,47.1554,Fully Operational,Operational
+FAC-0336,"Avery, Horton and Fernandez Oil Refinery",Oman,Oil Refinery,Medium,25.7246,53.1051,Fully Operational,Operational
+FAC-0337,"Newton, Moore and Perry Power Plant",Saudi Arabia,Power Plant,Medium,23.0107,48.632,Fully Operational,Operational
+FAC-0338,Bass PLC Airport,Iran,Airport,Critical,34.0716,56.8656,Fully Operational,Operational
+FAC-0339,Crosby-Ramirez Oil Refinery,Iran,Oil Refinery,Medium,32.8379,62.2108,Fully Operational,Operational
+FAC-0340,"Wood, Ramos and Sampson Port Cargo Terminal",United Arab Emirates,Port Cargo Terminal,Medium,22.6022,54.5705,Fully Operational,Operational
+FAC-0341,Garcia-Jennings Oil Refinery,Qatar,Oil Refinery,Low,25.779,51.4279,Fully Operational,Operational
+FAC-0342,"Winters, Newman and Brown Port Cargo Terminal",Iran,Port Cargo Terminal,Medium,31.4057,48.9847,Fully Operational,Offline
+FAC-0343,Lopez-Martinez Power Plant,United Arab Emirates,Power Plant,High,24.5545,53.2396,Fully Operational,Destroyed
+FAC-0344,Davis-Lewis Oil Refinery,Qatar,Oil Refinery,Low,25.5446,50.7763,Fully Operational,Operational
+FAC-0345,"Harper, Smith and Buchanan Water Desalination",Iran,Water Desalination,Medium,32.1515,51.9465,Fully Operational,Operational
+FAC-0346,Zhang PLC Water Desalination,United Arab Emirates,Water Desalination,Medium,24.7584,56.4995,Fully Operational,Damaged
+FAC-0347,Jones PLC Power Plant,Saudi Arabia,Power Plant,Low,16.8578,41.5398,Fully Operational,Operational
+FAC-0348,Willis and Sons Power Plant,Oman,Power Plant,High,21.4012,57.3406,Fully Operational,Operational
+FAC-0349,Schroeder-Kramer Oil Refinery,Iran,Oil Refinery,Medium,35.6548,49.5497,Fully Operational,Damaged
+FAC-0350,"Smith, Garrison and Thomas Water Desalination",Saudi Arabia,Water Desalination,Low,28.2547,45.5442,Fully Operational,Operational
